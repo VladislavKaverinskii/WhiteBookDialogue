@@ -1,0 +1,247 @@
+<?xml version='1.0' encoding='utf8'?>
+<agent_config>
+	<name>white_book_chatbot_client</name>
+	<conversation_limitation>1200</conversation_limitation>
+	<garbage_deleting>1000</garbage_deleting>
+	<wait_time>100</wait_time>
+	<db_clean_time>1000</db_clean_time>
+	<cache_clean_time>10000</cache_clean_time>
+	
+	<answers_comments>
+		<level number="0">Відповідь знайдено!</level>
+		<level number="1">Можливо, якщо я правильно зрозумів:</level>
+		<level number="2">З цього приводу можу сказати:</level>
+		<level number="3">Я знаю про таке:</level>
+		<level number="4">Можливо це вам буде цікаво?</level>
+		<level number="5">Я не знаю достеменно, але, можу надати наступну інформацію.</level>
+		<level number="6">В мене немає точної інформації з вказаного питання, але я знаю про наступне:</level>
+		<level number="7">Не знаю, може ця інформація якось пов'язано з вашим питанням?</level>
+
+		<level number="8">Нажаль я не можу знайти відповідь, але я знаю про наступне:</level>
+		<level number="additional_info">Також дивіться пов'язані питання:</level>
+	</answers_comments>
+	<greeting_phrases>
+		<phrase>
+			<case>start</case>
+			<text>Привіт! Це довідкова система з питань реабілітації. Що вас цікавить?</text>
+		</phrase>
+		<phrase>
+			<case>success</case>
+			<text>  </text>
+		</phrase>
+		<phrase>
+			<case>question</case>
+			<text>Привіт! Що вас ціавить?</text>
+		</phrase>
+		<phrase>
+			<case>wrong_input</case>
+			<text>Щось я Вас не розумію...</text>
+		</phrase>
+		<phrase>
+			<case>not_understand</case>
+			<text>Щось я нічого не розумію. Ця система працює виключно з українською мовою і пов'язана з питаннями медичної реабілітації.</text>
+		</phrase>
+		<phrase>
+			<case>no_answer</case>
+			<text>Нажаль, я не знаю, що відповісти... Я дещо знаю про реабілітаційну медицину.</text>
+		</phrase>
+	</greeting_phrases>
+	<standard_answers>
+		<phrase>
+			<case>no_answer</case>
+			<text>Навіть не знаю, що сказати... Я можу дати відповідь щодо деяких понять фізичної та реабілітаційної медицини, але я не знаю всього.</text>
+		</phrase>
+		<phrase>
+			<case>not_understand</case>
+			<text>Я вас, нажаль, не розумію... Ця система працює виключно з українською мовою і пов'язана з медичною реабілітацією.</text>
+		</phrase>
+		<phrase>
+			<case>query_error</case>
+			<text>Щось пішло не так...</text>
+		</phrase>
+		<phrase>
+			<case>wrong_input</case>
+			<text>Строчка запитання порожня. Ви можете задати питання українською мовою стосовно реабілітації.</text>
+		</phrase>
+	</standard_answers>
+	<explanations>
+		<phrase>
+			<case>refuse</case>
+			<text>Виклик відхилено.</text>
+		</phrase>
+		<phrase>
+			<case>error</case>
+			<text>Вибачте, щось пішло не так ...</text>
+		</phrase>
+		<phrase>
+			<case>validation_failure</case>
+			<text>Форма недійсна.</text>
+		</phrase>
+	</explanations>
+	
+	<dialog_answers>
+		<phrase>
+			<type>greeting</type>
+			<markers>
+				<item>привіт</item>
+				<item>здоровенькі були</item>
+				<item>здравствуй</item>
+				<item>здравствуйте</item>
+				<item>вітаю</item>
+				<item>мої вітання</item>
+				<item>добрий день</item>
+				<item>добрий ранок</item>
+				<item>доброго дня</item>
+				<item>доброго ранку</item>
+				<item>доброго вечора</item>
+			</markers>
+			<answer>Мої привітання. Це справочна система з питань, пов'язаних з фізичною та реабілітаційною медициною. Буду радий вам допомогти.</answer>
+		</phrase>
+		<phrase>
+			<type>system_essence</type>
+			<markers>
+				<item>що це</item>
+				<item>хто ти</item>
+				<item>що ти тут робиш</item>
+				<item>що це за штука</item>
+				<item>де я</item>
+			</markers>
+			<answer>Це довідкова система з питань, пов'язаних з фізичною та реабілітаційною медициною. Я можу відповісти на ваші запитання.</answer>
+		</phrase>
+		<phrase>
+			<type>how_are_you</type>
+			<markers>
+				<item>як почуваєш</item>
+				<item>як ти</item>
+				<item>як справи</item>
+			</markers>
+			<answer>Все добре. Я працюю. Я відповім на ваші запитання.</answer>
+		</phrase>
+		<phrase>
+			<type>weather</type>
+			<markers>
+				<item>хороша погода</item>
+				<item>погана погода</item>
+			</markers>
+			<answer>Напевно, так. Але я призначений для інших тем, зокрема про  реабілітаційну медицину.</answer>
+		</phrase>
+		<phrase>
+			<type>health</type>
+			<markers>
+				<item>мені погано</item>
+				<item>не хочу жити</item>
+				<item>в мене головний біль</item>
+				<item>мені боляче</item>
+			</markers>
+			<answer>Можливо, вам доведеться звернутися до відповідного фахівця. На жаль, я не можу дати вам поради на цю тему, оскільки я маю справу з іншими питаннями.</answer>
+		</phrase>
+		<phrase>
+			<type>thanks</type>
+			<markers>
+				<item>спасибі</item>
+				<item>дякую</item>
+				<item>ok</item>
+			</markers>
+			<answer>Я був радий вам допомогти. Чи є інші запитання?</answer>
+		</phrase>
+		<phrase>
+			<type>misunderstanding</type>
+			<markers>
+				<item>ні</item>
+				<item>Я нічого не розумію</item>
+				<item>я не розумію</item>
+			</markers>
+			<answer>Я просто намагаюся розповісти все, що знаю.</answer>
+		</phrase>
+		<phrase>
+			<type>goodbye</type>
+			<markers>
+				<item>до побачення</item>
+				<item>прощавай</item>
+				<item>на все добре</item>
+				<item>забирайся звідси</item>
+				<item>геть звідси</item>
+				<item>закінчимо бесіду</item>
+				<item>закінчимо розмову</item>
+				<item>завершимо розмову</item>
+			</markers>
+			<answer>До побачення. Сподіваюсь, надана інформація була для Вас корисною. Чи є у Вас ще питання?.</answer>
+		</phrase>
+		<phrase>
+			<type>insult</type>
+			<markers>
+				<item>ти дурень</item>
+				<item>ти дурний</item>
+				<item>сука</item>
+				<item>ти ідіот</item>
+				<item>заїбав</item>
+				<item>хуйовий</item>
+				<item>йди до біса</item>
+				<item>йди до чорта</item>
+				<item>ти урод</item>
+				<item>ти йобаний вирод</item>
+				<item>хуй</item>
+				<item>відсмокчи</item>
+				<item>сучара</item>
+				<item>сучара вонюча</item>
+				<item>придурок</item>
+			</markers>
+			<answer>Вибачте, якщо десь помилився. Я відповідаю лише те, що знаю. Будь ласка, давайте обійдемось без образ.</answer>
+		</phrase>
+		<phrase>
+			<type>apology</type>
+			<markers>
+				<item>перепрошую</item>
+				<item>вибачте</item>
+				<item>пробач</item>
+				<item>прошу вибачення</item>
+			</markers>
+			<answer>Все добре. Я не ображаюсь.</answer>
+		</phrase>
+	</dialog_answers>
+	
+	<goodbye_phrases>
+		<item>qfptfm4kd9uafrls0el3sfwldfgkqgllskfgroq255kgdop6pppfvxdfbldpldllspdlcpeplvplksfrkfklgdpfldld</item>
+		<item>авпвпвапвапарпаорвыараорлпропропроп</item>
+	</goodbye_phrases>
+	
+</agent_config>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<marker_words>
+
+	<item>
+		<word>з ким</word>
+		<type>objects</type>
+	</item>
+	<item>
+		<word>з чим</word>
+		<type>objects</type>
+	</item>
+	<item>
+		<word>яким</word>
+		<type>objects</type>
+	</item>
+	<item>
+		<word>де</word>
+		<type>place</type>
+	</item>
+	<item>
+		<word>як</word>
+		<type>method</type>
+	</item>
+	<item>
+		<word>можна</word>
+		<type>premission</type>
+	</item>
+	<item>
+		<word>коли</word>
+		<type>time</type>
+	</item>
+	<item>
+		<word>які</word>
+		<type>objects</type>
+	</item>
+	<item>
+		<word>яким чином</word>
+		<type>method</type>
+	</item>
+	<item>
+		<word>чого</word>
+		<type>cause</type>
+	</item>
+	<item>
+		<word>що</word>
+		<type>objects</type>
+	</item>
+	<item>
+		<word>чому</word>
+		<type>cause</type>
+	</item>
+	<item>
+		<word>не</word>
+		<type>negation</type>
+	</item>
+	
+</marker_words>

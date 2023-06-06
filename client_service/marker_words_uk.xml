@@ -1,0 +1,109 @@
+<marker>
+    <question>
+        <time>
+            <item> коли </item>
+            <item> в який час </item>
+        </time>
+        <place>
+            <item> де </item>
+            <item> в якому </item>
+            <item> в чому </item>
+            <item> на чому </item>
+            <item> біля чого </item>
+            <item> за чим </item>
+            <item> у чому </item>
+        </place>
+        <cause>
+            <item> чого </item>
+            <item> чому </item>
+            <item> для чого </item>
+            <item> зачим </item>
+            <item> яка причина </item>
+            <item> в чому причина </item>
+            <item> що викликає </item>
+        </cause>
+        <object>
+            <item> з ким </item>
+            <item> з чим </item>
+            <item> яким </item>
+        </object>
+        <method>
+            <item> як </item>
+            <item> яким чином </item>
+        </method>
+        <direction>
+            <item> куди </item>
+            <item> звідки </item>
+            <item> звідкіля </item>
+        </direction>
+    </question>
+    <statement>
+        <time>
+            <item> коли </item>
+            <item> в той час </item>
+            <item> в цей час </item>
+            <item> одночасно </item>
+            <item> вчора </item>
+            <item> сьогодні </item>
+            <item> завтра </item>
+            <item> підлязавтра </item>
+            <item> позавчора </item>
+            <item> році </item>
+            <item> місяці </item>
+            <item> зараз </item>
+            <item> завжди </item>
+            <item> інколи </item>
+            <item> ніколи </item>
+            <item> іноді </item>
+        </time>
+        <place>
+            <item> у цьому </item>
+            <item> у тому </item>
+            <item> тут </item>
+            <item> у </item>
+            <item> в </item>
+            <item> на </item>
+            <item> там </item>
+            <item> у тому </item>
+        </place>
+         <cause>
+            <item> тому що </item>
+            <item> тому, що </item>
+            <item> для того </item>
+            <item> задля </item>
+            <item> по причині </item>
+            <item> внаслідок </item>
+            <item> через це </item>
+             <item> що при </item>
+             <item> через це </item>
+
+        </cause>
+        <method>
+            <item> таким чином </item>
+            <item> у такий спосіб </item>
+            <item> за допомогою </item>
+            <item> з використанням</item>
+            <item> цим </item>
+        </method>
+        <direction>
+            <item> сюди </item>
+            <item> туди </item>
+            <item> звідси </item>
+            <item> у напрямку </item>
+            <item> у цьому напрямку </item>
+            <item> у тому напрямку </item>
+        </direction>
+        <need>
+            <item> хочу </item>
+            <item> бажаю </item>
+            <item> потрібно </item>
+            <item> хоче </item>
+            <item> бажає </item>
+            <item> прагну </item>
+            <item> прагне </item>
+            <item> хочеш </item>
+            <item> бажаєш </item>
+            <item> прагнеш </item>
+        </need>
+    </statement>
+</marker>

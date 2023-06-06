@@ -1,0 +1,253 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	font-family: 'Helvetica';
+}
+body{
+	height: 100%;
+	background: #95a5a6;
+}
+.chat-box{
+	z-index: 1000;
+	position: absolute;
+	right: 20px;
+	bottom: 0px;
+	background: white;
+	width: 600px;
+	height: 90%;
+	border-radius: 5px 5px 0px 0px;
+	box-shadow: -5px -1px 20px 1px rgba(0, 0, 255, .2);;
+}
+.chat-head{
+	z-index: 1001;
+	width: inherit;
+	height: 45px;
+	background: #2c3e50;
+	border-radius: 5px 5px 0px 0px;
+}
+.chat-head h2{
+	color: white;
+	padding: 8px;
+	display: inline-block;
+	font-size: 14pt;
+}
+.chat-head img{
+	cursor: pointer;
+	float: right;
+	width: 25px;
+	margin: 10px;
+}
+.chat-body{
+	height: 83%;
+	width: inherit;
+	overflow: auto;
+	margin-bottom: 45px;
+}
+.chat-text{
+	position: fixed;
+	bottom: 0px;
+	height: 45px;
+	width: inherit;
+}
+
+.msg-send, .msg-receive img {
+	width: 500px;
+}
+
+
+.chat-text textarea{
+	width: inherit;
+	height: inherit; 
+	box-sizing: border-box;
+	border: 1px solid #bdc3c7;
+	padding: 10px;
+	resize: none;
+}
+.chat-text textarea:active, .chat-text textarea:focus, .chat-text textarea:hover{
+	border-color: royalblue;
+}
+.msg-send{
+	background: #2ecc71;
+	box-shadow: -5px 5px 10px 2px teal;
+}
+.msg-receive{
+	background: #3498db;
+	box-shadow: 5px 5px 10px 2px olive;
+}
+.msg-send, .msg-receive{
+	width: 500px;
+	height: auto;
+	min-height: 35px;
+	padding: 5px 15px 5px 10px;
+	margin: 10px auto;
+	border-radius: 3px;
+	line-height: 30px;
+	position: relative;
+	color: white;
+	text-align: justify;
+}
+.msg-receive:before{
+	content: '';
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border: 15px solid;
+	border-color: transparent #3498db transparent transparent;
+	left: -29px;
+	top: 7px;
+}
+.msg-send:after{
+	content: '';
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border: 15px solid;
+	border-color: transparent transparent transparent #2ecc71;
+	right: -29px;
+	top: 7px;
+}
+.msg-receive:hover, .msg-send:hover{
+	opacity: .9;
+}
+
+.dialog-button {
+	width: inherit;
+	height: inherit; 
+	box-sizing: border-box;
+	border: 1px solid #bdc3c7;
+	padding: 10px;
+	cursor: pointer;
+	font-size: 11pt;
+	background-color: azure;
+	
+}
+
+.dialog-button:hover {
+	width: inherit;
+	height: inherit; 
+	box-sizing: border-box;
+	border: 1px solid #bdc3c7;
+	padding: 10px;
+	cursor: pointer;
+	font-size: 12pt;
+	background-color: #FDFDF3;
+}
+
+
+@media screen and (max-width: 600px) {
+	.chat-box{
+	position: fixed;
+	right: 15px;
+	bottom: 0px;
+	background: white;
+	width: 95%;
+	border-radius: 5px 5px 0px 0px;
+}
+.chat-head{
+	width: 100%;
+	height: 45px;
+	background: #2c3e50;
+	border-radius: 5px 5px 0px 0px;
+}
+.chat-head h2{
+	color: white;
+	padding: 8px;
+	display: inline-block;
+}
+.chat-head img{
+	cursor: pointer;
+	float: right;
+	width: 25px;
+	margin: 10px;
+}
+.chat-body{
+	height: 555px;
+	width: inherit;
+	overflow: auto;
+	margin-bottom: 45px;
+}
+.chat-text{
+	position: fixed;
+	bottom: 0px;
+	height: 45px;
+	width: 95%;
+	width: inherit;
+}
+.chat-text textarea{
+	width: 100%;
+	height: inherit; 
+	box-sizing: border-box;
+	border: 1px solid #bdc3c7;
+	padding: 10px;
+	resize: none;
+}
+.chat-text textarea:active, .chat-text textarea:focus, .chat-text textarea:hover{
+	border-color: royalblue;
+}
+.msg-send{
+	background: #2ecc71;
+}
+.msg-receive{
+	background: #3498db;
+}
+.msg-send, .msg-receive{
+	width: 450px;
+	height: auto;
+	min-height: 35px;
+	padding: 15px 15px 15px 15px;
+	margin: 10px auto;
+	border-radius: 3px;
+	line-height: 30px;
+	position: relative;
+	color: white;
+	text-align: justify;
+}
+.msg-receive:before{
+	content: '';
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border: 15px solid;
+	border-color: transparent #3498db transparent transparent;
+	left: -29px;
+	top: 7px;
+}
+.msg-send:after{
+	content: '';
+	width: 0px;
+	height: 0px;
+	position: absolute;
+	border: 15px solid;
+	border-color: transparent transparent transparent #2ecc71;
+	right: -29px;
+	top: 7px;
+}
+.msg-receive:hover, .msg-send:hover{
+	opacity: .9;
+	
+	
+}
+.dialog-button {
+	width: inherit;
+	height: inherit; 
+	box-sizing: border-box;
+	border: 1px solid #bdc3c7;
+	padding: 10px;
+	cursor: pointer;
+	font-size: 11pt;
+	background-color: azure;
+	
+}
+
+.dialog-button:hover {
+	width: inherit;
+	height: inherit; 
+	box-sizing: border-box;
+	border: 1px solid #bdc3c7;
+	padding: 10px;
+	cursor: pointer;
+	font-size: 12pt;
+	background-color: #FDFDF3;
+}
+
+}

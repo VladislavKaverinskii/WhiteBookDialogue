@@ -1,0 +1,1738 @@
+<?xml version='1.0' encoding='utf8'?>
+<templates>
+	<template>
+		<language>ukrainian</language>
+		<type>ready_answer</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>intersectionElementID</name>
+				<var_type>auto</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>intersectionName</name>
+				<var_type>auto</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>propName</name>
+				<var_type>auto</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[intersectionElementID] rdf:rest*/rdf:first [inputEntity].</condition>
+			<condition>[intersectionName] owl:intersectionOf [intersectionElementID].</condition>
+			<condition>[propName] rdfs:domain [intersectionName].</condition>
+			<condition>[propName] rdfs:range [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>sub_class</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[result] rdfs:subClassOf [inputEntity].</condition>
+		</conditions>
+		<ordering>[result]</ordering>
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>sub_class_amply</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[title] rdfs:subClassOf [inputEntity].</condition>
+			<condition>[title] rdfs:label [result].</condition>
+		</conditions>
+		<ordering>[title]</ordering>
+	</template>
+    <template>
+		<language>ukrainian</language>
+		<type>aspect</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Aspect [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>aspect_amply</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Aspect [title].</condition>
+			<condition>[title] rdfs:label [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>super_class</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:subClassOf [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>super_class_amply</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:subClassOf [title].</condition>
+			<condition>[title] rdfs:label [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>predicate_definition</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs[inputEntity] [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>label_definition</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:label [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>chapter</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Chapter [variableEntity_1].</condition>
+			<condition>[variableEntity_1] rdfs:label [result].</condition>
+		</conditions>
+        <ordering>[result]</ordering>		
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>topic</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Topic [result].</condition>
+		</conditions>
+		<ordering>[result]</ordering>
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>topic_amply</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Topic [title].</condition>
+			<condition>[title] rdfs:label [result].</condition>
+		</conditions>
+		<ordering>[title]</ordering>
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>predicate_query</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs[inputEntity] [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>certain_predicate_query</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity_1</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>inputEntity_2</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity_1] rdfs[inputEntity_2] [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>query_of_predicate</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [title] [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] [title] [result]. </condition>
+			<condition>filter ([title] != rdfs:label) </condition>
+			<condition>filter ([title] != rdfs:shape) </condition>
+			<condition>filter ([title] != rdfs:guid) </condition>
+			<condition>filter ([title] != rdfs:color) </condition>
+			<condition>filter ([title] != rdfs:xPos) </condition>
+			<condition>filter ([title] != rdfs:yPos) </condition>
+			<condition>filter ([title] != rdf:type) </condition>
+			<condition>filter ([title] != rdfs:coment) </condition>
+			<condition>filter ([title] != owl:equivalentClass) </condition>
+			<condition>filter ([title] != rdfs:subClassOf) </condition>
+		</conditions>	
+	</template>	
+	<template>
+		<language>ukrainian</language>
+		<type>individuals</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[result] rdf:type [inputEntity].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>individuals_parent</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdf:type [result].</condition>
+		</conditions>	
+	</template>	
+	<template>
+		<language>ukrainian</language>
+		<type>compensation</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Компенсація [result].</condition>
+		</conditions>	
+	</template>
+	<template>
+		<language>ukrainian</language>
+		<type>true_recovery</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Справжнє_відновлення [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>common</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Загальне [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>weak_recommendation</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Слабка_рекомендація [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>strong_recommendation</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Сильна_рекомендація [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>table</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity_1</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>inputEntity_2</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity_1] rdfs[inputEntity_2] [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>figure</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity_1</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>inputEntity_2</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity_1] rdfs:Малюнок_[inputEntity_2] [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>indexetion</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Індексація [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>categories_of_works</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Категорії_робіт [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>accsess</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Доступ [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>clinical_model</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:_dquote_Анатомо__клінічна_dquote__модель [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>functional_model</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:_dquote_Функціональна_dquote__модель [result].</condition>
+		</conditions>	
+	</template>	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>goals</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Цілі [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>goals</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Цілі [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>purpose</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Мета [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>approach</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Підходи [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>approach</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Підходи [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>mission</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Місія [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>subject_of_interest</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Області_інтересів [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>reabilitation_classification</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Класифікація_реабілітаційних_послуг [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>recomendations</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Рекомендації_ВООЗ_щодо_реабілітації_в_системах_охорони_здоров_squote_я [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>implementation</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Впровадження [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>literature</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Література [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>clinical_case</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Клінічний_випадок_пацієнта_з_втратою_кінцівок [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>strategy</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Стратегії [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>command_work_principels</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Принципи_командної_роботи [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>dimentions_of_learining</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Виміри_навчання_пацієнтів [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>problem_solving</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Як_вирішити_ці_проблеми [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>standards_upgrade</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Покращення_стандартів_у_дослідженнях_фізичної_та_реабілітаційної_медицини [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>intervention_standardization</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Стандартизувати_втручання [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>research_designes</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Створення_якісних_дизайнів_досліджень_comma__специфічних_для_ФРМ [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>representation</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Представництво_ФРМ_в__lquote_світі_доказової_медицини_rquote_ [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>knowledge_transfer</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Передача_наукових_знань_до_клінічної_практики [result].</condition>
+		</conditions>	
+	</template>
+	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>membership</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] rdfs:Членство [result].</condition>
+		</conditions>	
+	</template>	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>scope</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Сфера_застосування [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>committees</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Комітети [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>compositions</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Склад [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>etics</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Напрацювання_з_етики [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>books</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Книги [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>awards</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Щорічна_премія [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>body_functions_assessment</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Функції_організму_comma__що_вимагають_оцінювання [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>evaluation_methods</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Методи_оцінювання [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>evaluation_tools</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Іструменти__оцінювання [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>evaluation_tools</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[variableEntity_1] rdfs:Іструменти__оцінювання [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>count_derivatives</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT (COUNT(DISTINCT ?variable) AS [result]) </query_base>
+		<conditions>
+			<condition>{ ?variable rdfs:subClassOf [inputEntity]. } UNION { ?variable rdf:type [inputEntity]. }</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>count_authors</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>:Методологія_третього_видання_БК_з_ФРМ_у_Європі rdfs:label [result].</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>count_chapters</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT (COUNT(DISTINCT ?variable) AS [result]) </query_base>
+		<conditions>
+			<condition>:Біла_Книга_з_Фізичної_та_Реабілітаційної_Медицини__lbraket_ФРM_rbraket__в_Європі rdfs:Chapter ?variable.</condition>
+		</conditions>	
+	</template>
+	
+	<template>
+		<language>ukrainian</language>
+		<type>linked_classes_down</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>variableEntity_1</name>
+				<var_type>str</var_type>
+				<destination>inner</destination>
+				<allow_list>false</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[inputEntity] [variableEntity_1] [result]. </condition>
+			<condition>filter ([variableEntity_1] != rdfs:label) </condition>
+			<condition>filter ([variableEntity_1] != rdfs:shape) </condition>
+			<condition>filter ([variableEntity_1] != rdfs:guid) </condition>
+			<condition>filter ([variableEntity_1] != rdfs:color) </condition>
+			<condition>filter ([variableEntity_1] != rdfs:xPos) </condition>
+			<condition>filter ([variableEntity_1] != rdfs:yPos) </condition>
+			<condition>filter ([variableEntity_1] != rdf:type) </condition>
+			<condition>filter ([variableEntity_1] != rdfs:coment) </condition>
+			<condition>filter (strlen(str([result])) > 0). </condition>
+		</conditions>	
+	</template>	
+	
+	<template>
+		<language>ukrainian</language>
+		<type>linked_classes_up</type>
+		<marker_words />
+		<variables>
+			<variable>
+				<name>inputEntity</name>
+				<var_type>str</var_type>
+				<destination>input</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>title</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+			<variable>
+				<name>result</name>
+				<var_type>str</var_type>
+				<destination>result</destination>
+				<allow_list>true</allow_list>
+			</variable>
+		</variables>
+		<query_base>SELECT DISTINCT [result] </query_base>
+		<conditions>
+			<condition>[result] [title] [inputEntity]. </condition>
+			<condition>filter ([title] != rdfs:label) </condition>
+			<condition>filter ([title] != rdfs:shape) </condition>
+			<condition>filter ([title] != rdfs:guid) </condition>
+			<condition>filter ([title] != rdfs:color) </condition>
+			<condition>filter ([title] != rdfs:xPos) </condition>
+			<condition>filter ([title] != rdfs:yPos) </condition>
+			<condition>filter ([title] != rdfs:coment) </condition>
+		</conditions>	
+	</template>
+	
+	
+	
+	
+	
+</templates>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
