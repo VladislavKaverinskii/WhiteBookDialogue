@@ -1,0 +1,3652 @@
+<?xml version='1.0' encoding='utf8'?>
+
+<data>
+<specific_words>
+	<beginning>
+		<item>чи можеш дати</item>
+		<item>чи можеш надати</item>
+		<item>що відомо про те</item>
+		<item>чи знаєте про те</item>
+		<item>що відомо про</item>
+		<item>чи знаєте про</item>
+		<item>чи знаєте те</item>
+		<item>чи знаєте</item>
+		<item>що знаєте те</item>
+		<item>що знаєте</item>
+		<item>чи знаєш про те</item>
+		<item>чи знаєш про</item>
+		<item>чи знаєш те</item>
+		<item>чи знаєш</item>
+		<item>що знаєш про те</item>
+		<item>що знаєш про</item>
+		<item>що знаєш те</item>
+		<item>що думаєш про те</item>
+		<item>що думаєш про</item>		
+		<item>що думаєш</item>
+		<item>що можеш розказати про те</item>
+		<item>що можеш розказати про</item>
+		<item>що можеш сказати про те</item>
+		<item>що можеш сказати про</item>
+		<item>що можеш сказати</item>
+		<item>що можеш розказати</item>		
+		<item>що відомо про те</item>
+        <item>що відомо про</item>		
+		<item>що знаєш</item>
+		<item>розкажи про те</item>
+		<item>розкажи про</item>
+		<item>розкажи за те</item>
+		<item>розкажи за</item>
+		<item>розкажи</item>
+		<item>а тепер</item>
+        <item>розкажіть про те</item>
+		<item>розкажіть про</item>
+		<item>розкажіть за те</item>
+		<item>розкажіть за</item>
+		<item>розкажіть</item>		
+		<item>хочу знати те</item>
+		<item>хочу знати</item>
+		<item>хотів би знати те</item>
+		<item>хотів би знати</item>
+		<item>хотів би спитати те</item>
+		<item>хотів би спитати</item>
+		<item>хочу знати те</item>
+		<item>хочу знати</item>
+		<item>хочу переглянути</item>
+		<item>хотів би переглянути</item>
+		<item>хотів би переглянути</item>
+		<item>хочу переглянути</item>
+		<item>дай відповідь про те</item>
+		<item>дай відповідь про</item>
+		<item>дай відповідь</item>		
+		<item>дай відповідь на те</item>
+		<item>дай відповідь на питання</item>
+		<item>дай відповідь на</item>		
+		<item>надай відповідь про те</item>
+		<item>надай відповідь про</item>
+		<item>надай відповідь</item>		
+		<item>надай відповідь на те</item>
+		<item>надай відповідь на питання</item>
+		<item>надай відповідь на</item>		
+		<item>наведи</item>		
+		<item>відповідь про те</item>
+		<item>відповідь про</item>
+		<item>відповідь</item>
+		<item>чи можеш назвати відповідь на питання</item>
+		<item>чи можеш надати відповідь на питання</item>
+		<item>чи можеш надати відповідь</item>
+		<item>чи можеш назвати відповідь</item>
+		<item>чи можеш надати</item>
+		<item>чи можеш назвати</item>
+		<item>чи можеш відповісти</item>
+
+		<item>можеш надати відповідь на питання</item>
+		<item>можеш назвати відповідь на питання</item>			
+		<item>можеш надати відповідь</item>
+		<item>можеш назвати відповідь</item>
+		<item>можеш надати</item>
+		<item>можеш назвати</item>	
+		
+		<item>можеш відповісти</item>		
+		<item>що можеш розказати</item>
+		<item>що можеш розказати про</item>		
+		<item>хотів би знати про</item>
+		<item>хотів би дізнатися про</item>
+		<item>хотів би знати</item>
+		<item>хотів би дізнатися</item>		
+		<item>хочу знати про</item>
+		<item>хочу дізнатися про</item>
+		<item>хочу знати</item>
+		<item>хочу дізнатися</item>		
+		<item>хочу отримати відповідь про те</item>
+		<item>хочу отримати відповідь про</item>
+		<item>хочу отримати відповідь за</item>
+		<item>хочу отримати відповідь</item>
+		<item>хотів би отримати відповідь про те</item>
+		<item>хотів би отримати відповідь про</item>
+		<item>хотів би отримати відповідь за</item>
+		<item>хотів би отримати відповідь</item>		
+		<item>назови те</item>
+		<item>назови</item>
+		<item>назовіть те</item>
+		<item>назовіть</item>
+		<item>назвіть те</item>
+		<item>назвіть</item>
+		<item>наведи</item>
+		<item>наведіть</item>
+		<item>покажи те</item>
+		<item>покажи</item>
+		<item>покажіть те</item>
+		<item>покажіть</item>
+		<item>давай поговоримо про те</item>
+		<item>давай поговоримо про</item>
+		<item>поговоримо про те</item>
+		<item>поговоримо про</item>
+		
+		<item>я вважаю</item>
+		<item>вважаю</item>
+		<item>я рахую</item>
+		
+		<item>ми вважаємо</item>
+		
+		<item>зроби</item>
+		
+		<item>порадь</item>
+	</beginning>
+	
+	<everywhere>
+	
+		<item>а зараз</item>
+		<item>зараз</item>
+		<item>а тепер</item>
+		<item>тепер</item>		
+		<item>року</item>
+		<item>рік</item>
+		<item>р</item>		
+		<item>коли-небудь</item>
+		<item>будь-коли</item>
+		<item>десь</item>
+		<item>майже</item>
+		<item>може</item>
+		<item>можливо</item>
+		<item>колись</item>		
+		<item>давай</item>
+		<item>буцімто</item>
+		<item>тобі</item>
+		<item>вам</item>
+		<item>мені</item>
+		<item>нам</item>	
+		<item>все</item>
+		<item>всі</item>
+		<item>ти</item>
+		<item>ви</item>
+		<item>я</item>
+		<item>він</item>
+		<item>вона</item>
+		<item>воно</item>
+		<item>вони</item>
+		<item>з тобою</item>
+		<item>тобою</item>
+		
+		<item>для вас</item>
+		<item>для нас</item>
+		<item>вас</item>
+		<item>нас</item>
+		<item>для них</item>
+		<item>них</item>
+		<item>мене</item>
+		<item>для мене</item>
+		
+		<item>їх</item>
+		<item>їхній</item>
+		<item>їхня</item>
+		<item>їхні</item>
+		
+		<item>з нами</item>
+		<item>зі мною</item>
+		<item>з ними</item>
+		<item>з нею</item>
+		<item>з ним</item>
+		
+		<item>про мене</item>
+		<item>про тебе</item>
+		<item>про нього</item>
+		<item>про вас</item>
+		<item>про нас</item>
+		<item>про неї</item>
+		
+		<item>це</item>
+		<item>те</item>
+		<item>як</item>	
+		<item>то</item>
+		<item>ті</item>
+		<item>та</item>
+		<item>той</item>
+		<item>ці</item>
+		<item>ця</item>
+		<item>цей</item>
+		
+		<item>цій</item>
+		<item>цієї</item>
+		<item>цього</item>
+		<item>цьому</item>
+
+		<item>не</item>
+		<item>ні</item>
+		
+		<item>коли</item>
+		<item>завжди</item>
+		<item>ніколи</item>
+		<item>здається</item>
+		<item>приблизно</item>
+		
+		<item>щодо них</item>
+		<item>що до них</item>
+		<item>щодо нас</item>
+		<item>що до нас</item>
+		<item>щодо мене</item>
+		<item>що до мене</item>
+		<item>щодо нього</item>
+		<item>що до нього</item>
+		<item>щодо неї</item>
+		<item>що до неї</item>
+		
+		<item>яким чином</item>
+		<item>яким</item>
+		<item>а</item>
+		<item>що робити при</item>
+		<item>що робити</item>
+		<item>якщо</item>
+
+
+	</everywhere>
+</specific_words>
+
+<tree>
+	<condition_level id="1">
+		<position id="1.1">
+			<condition id="1.1.1">
+				<words_list>
+					<item>які знаєш</item>	
+					<item>які знаєте</item>				
+					<item>які є</item>
+					<item>які існують</item>
+					<item>які були</item>
+					<item>які бувають</item>
+					<item>які існували</item>
+					<item>які бувають</item>
+					<item>які будуть</item>
+					<item>що за</item>
+					<item>які це за</item>
+					<item>які</item>
+					<item>яке</item>
+				</words_list>
+				<possible_types>
+					<item>individuals</item>
+					<item>sub_class</item>
+					<item>aspect</item>
+					<item>chapter</item>
+					<item>topic</item>
+				</possible_types>
+				<next_position>2.1</next_position>
+			</condition>
+			<condition id="1.1.2">
+				<words_list>					
+					<item>дайте характеристику</item>
+					<item>дайте характеристику поняттю</item>
+					<item>дайте докладну характеристику</item>
+					
+					<item>дайте змістовну характеристику</item>
+					<item>дайте вичерпну характеристику</item>				
+					
+					<item>докладно охарактеризуйте</item>
+					<item>охарактеризуйте докладно</item>
+					
+					<item>охарактеризуйте змістовно</item>
+					<item>змістовно охарактеризуйте</item>
+					
+					<item>опишіть змістовно</item>
+					<item>змістовно опишіть</item>
+					<item>опишіть докладно</item>
+					<item>докладно опишіть</item>	
+					
+					<item>опишіть детально</item>
+					<item>детально опишіть</item>
+					
+					<item>дай характеристику поняттю</item>
+					<item>дай докладну характеристику</item>					
+					<item>дай змістовну характеристику</item>
+					<item>дай вичерпну характеристику</item>
+					<item>дай характеристику</item>
+					
+					<item>докладно охарактеризуй</item>
+					<item>охарактеризуй докладно</item>
+					
+					<item>охарактеризуй змістовно</item>
+					<item>змістовно охарактеризуй</item>
+					
+					<item>опиши змістовно</item>
+					<item>змістовно опиши</item>
+					<item>опиши докладно</item>
+					<item>докладно опиши</item>	
+					
+					<item>опиши детально</item>
+					<item>детально опиши</item>
+					
+					<item>докладно</item>
+					<item>докладніше</item>
+					<item>детально</item>
+					<item>змістовно</item>
+					<item>охарактеризуйте</item>
+					<item>опишіть</item>
+					
+					<item>опишіть сутність</item>
+					<item>в чому полягає сутність</item>
+					<item>в чому полягає</item>
+					<item>в чому сутність</item>
+					<item>в сутність</item>
+					
+					<item>опишіть в чому полягає сутність</item>
+					<item>опишіть в чому полягає</item>					
+					<item>опишіть в чому сутність</item>
+					<item>опишіть сутність</item>
+					
+				</words_list>
+				<possible_types>
+					<item>sub_class_amply</item>
+					<item>aspect_amply</item>
+					<item>super_class_amply</item>
+					<item>predicate_definition</item>
+					<item>label_definition</item>
+					<item>topic_amply</item>
+				</possible_types>
+				<next_position>2.2</next_position>
+			</condition>
+			<condition id="1.1.3">
+				<words_list>
+					<item>що таке</item>
+					<item>що являє собою</item>
+					<item>що являє</item>					
+					<item>дай визначення поняттю</item>
+					<item>дай визначення для поняття</item>
+					<item>дай визначення</item>					
+					<item>дайте визначення поняттю</item>
+					<item>дайте визначення для поняття</item>
+					<item>дайте визначення</item>
+					
+					<item>надай визначення поняттю</item>
+					<item>надай визначення для поняття</item>
+					<item>надай визначення</item>					
+					<item>надайте визначення поняттю</item>
+					<item>надайте визначення для поняття</item>
+					<item>надайте визначення</item>
+					
+					<item>хто такий</item>
+					<item>хто така</item>
+					<item>визначення поняттю</item>
+					<item>визначення для поняття</item>
+					<item>визначення</item>	
+					
+					<item>хто є</item>	
+					<item>що є</item>	
+					<item>що називається</item>
+					<item>що зветься</item>
+					<item>що називають</item>
+					
+					<item>хто називається</item>
+					<item>хто зветься</item>
+					<item>кого називають</item>
+					
+					<item>що можна назвати</item>
+					<item>що може зваться</item>
+					<item>що може звать</item>
+					<item>що може зватися</item>
+					<item>що можуть називати</item>
+					
+					<item>кого можна назвати</item>
+					<item>кого може зваться</item>
+					<item>кого може звать</item>
+					<item>когоо може зватися</item>
+					<item>кого можуть називати</item>
+					
+					<item>що вважається</item>
+					<item>хто вважається</item>
+					<item>що можна вважати</item>
+					<item>кого можна вважати</item>
+					
+					<item>що слід вважати</item>
+					<item>що слід називати</item>
+					<item>хто</item>
+					
+					
+				</words_list>
+				<possible_types>
+					<item>clinical_model</item>
+					<item>functional_model</item>
+					<item>compensation</item>
+					<item>true_recovery</item> 
+					<item>predicate_definition</item>
+					<item>label_definition</item>
+					<item>super_class</item>
+				</possible_types>
+				<next_position>2.3</next_position>
+			</condition>
+			<condition id="1.1.4">
+				<words_list>
+					<item>чим є</item>	
+					<item>до чого відноситься</item>
+					<item>до чого входить</item>
+					<item>складовою чого є</item>	
+					<item>до чого належить</item>
+					<item>чому належить</item>	
+					<item>кому належить</item>	
+					<item>належить</item>
+				</words_list>
+				<possible_types>
+					<item>super_class</item>
+				</possible_types>
+				<next_position>2.4</next_position>
+			</condition>
+			<condition id="1.1.5">
+				<words_list>
+					<item>що включає</item>
+					<item>що включають</item>
+					<item>складові частини</item>
+					<item>основні складові</item>
+					<item>складові</item>					
+					<item>склад</item>
+					<item>включає</item>
+					<item>включають</item>
+					<item>що входить до складу</item>
+					<item>що входить у склад</item>
+					<item>що входить до</item>
+					<item>що входить у</item>
+					<item>що входить до змісту</item>
+					<item>що входить</item>
+					<item>що до складу входить</item>
+					<item>що у склад входить</item>
+					<item>що до складу</item>
+					<item>що включає в себе</item>
+					<item>що включає у себе</item>
+					<item>що включають в себе</item>
+					<item>що включають у себе</item>
+					
+					<item>що в себе включає</item>
+					<item>що у себе включає</item>
+					<item>що в себе включають</item>
+					<item>що у себе включають</item>
+					
+					<item>з чого складається</item>
+					<item>з яких розділів складається</item>
+					<item>з кого складається</item>
+					<item>з яких частин складається</item>
+					<item>з яких частинок складається</item>
+					<item>з яких складових складається</item>
+					<item>складається</item>
+					<item>зміст</item>
+					<item>частини</item>
+					<item>розділи</item>
+					<item>що формує</item>
+					<item>що утворюює</item>
+					<item>які частини утворюють</item>
+					<item>які частини складають</item>
+					<item>частини утворюють</item>
+					<item>частини складають</item>
+					<item>частини які утворюють</item>
+					<item>частини що складають</item>
+					<item>які розділи включає</item>
+					
+				</words_list>
+				<possible_types>
+					<item>sub_class</item>
+					<item>query_of_predicate</item>
+				</possible_types>
+				<next_position>2.5</next_position>
+			</condition>
+			<condition id="1.1.6">
+				<words_list>					
+					<item>основні аспекти</item>	
+					<item>основні види</item>	
+					<item>основні різновиди</item>			
+				    <item>основні теми</item>	
+					<item>основні ідеї</item>
+					<item>основні тези</item>
+					<item>основні положення</item>
+					
+					<item>аспекти основні</item>	
+					<item>види основні</item>	
+					<item>різновиди основні</item>			
+				    <item>теми основні</item>	
+					<item>ідеї основні</item>
+					<item>тези основні</item>
+					<item>положення основні</item>
+					
+					<item>головні аспекти</item>	
+					<item>головні види</item>	
+					<item>головні різновиди</item>			
+				    <item>головні теми</item>	
+					<item>головні ідеї</item>
+					<item>головні тези</item>
+					<item>головні положення</item>
+					
+					<item>аспекти головні</item>	
+					<item>види головні</item>	
+					<item>різновиди головні</item>			
+				    <item>теми головні</item>	
+					<item>ідеї головні</item>
+					<item>тези головні</item>
+					<item>положення головні</item>
+					
+					<item>базові аспекти</item>	
+					<item>базові види</item>	
+					<item>базові різновиди</item>			
+				    <item>базові теми</item>	
+					<item>базові ідеї</item>
+					<item>базові тези</item>
+					<item>базові положення</item>
+					
+					<item>аспекти базові</item>	
+					<item>види базові</item>	
+					<item>різновиди базові</item>			
+				    <item>теми базові</item>	
+					<item>ідеї базові</item>
+					<item>тези базові</item>
+					<item>положення базові</item>
+					<item>аспекти</item>	
+					<item>види</item>	
+					<item>різновиди</item>			
+				    <item>теми</item>	
+					<item>ідеї</item>
+					<item>тези</item>
+					<item>положення</item>
+					
+					<item>про що йдеться у</item>
+					<item>про що говориться у</item>
+					<item>про що йдеться в</item>
+					<item>про що говориться в</item>
+					<item>про що йдеться</item>
+					<item>про що говориться</item>
+					
+				</words_list>
+				<possible_types>
+					<item>aspect</item>
+				</possible_types>
+				<next_position>2.6</next_position>
+			</condition>
+			<condition id="1.1.7">
+				<words_list>
+					<item>основні розділи</item>
+					<item>розділи основні</item>
+					<item>розділи</item>	
+					<item>частини</item>	
+					<item>глави</item>				
+				</words_list>
+				<possible_types>
+					<item>chapter</item>
+				</possible_types>
+				<next_position>2.7</next_position>
+			</condition>
+			<condition id="1.1.8">
+				<words_list>
+					<item>основні теми</item>
+					<item>теми основні</item>
+					<item>підрозділи</item>	
+					<item>частини розділу</item>
+					<item>зміст</item>	
+					<item>основна тематика</item>	
+					<item>тематика</item>
+				</words_list>
+				<possible_types>
+					<item>topic</item>
+					<item>sub_class</item>
+				</possible_types>
+				<next_position>2.8</next_position>
+			</condition>
+			<condition id="1.1.9">
+				<words_list>
+					<item>приклади</item>
+					<item>список</item>
+					<item>перелік</item>					
+					<item>назви</item>					
+					<item>найменування</item>
+					<item>примірники</item>
+					<item>екземпляри</item>
+				</words_list>
+				<possible_types>
+					<item>individuals</item>
+				</possible_types>
+				<next_position>2.9</next_position>
+			</condition>
+			<condition id="1.1.10">
+				<words_list>
+					<item>загальну характеристику</item>	
+					<item>загальна характеристика</item>
+					<item>загальне про</item>	
+					<item>загальне</item>	
+					<item>загально охарактеризуй</item>	
+					<item>загально охарактеризуйте</item>	
+					<item>взагалі про</item>	
+					<item>взагалі</item>
+				</words_list>
+				<possible_types>
+					<item>common</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>2.10</next_position>
+			</condition>
+			<condition id="1.1.11">
+				<words_list>
+					<item>що потрібно для</item>	
+					<item>що рекомендують для</item>
+					<item>що треба для</item>	
+					<item>чого потребує для</item>	
+					<item>чого взагалі потребує для</item>
+					<item>чого потребує взагалі для</item>
+					<item>чого потребує для</item>
+					
+					<item>що потрібно задля</item>	
+					<item>що рекомендують задля</item>
+					<item>що треба задля</item>	
+					<item>чого потребує задля</item>	
+					<item>чого взагалі потребує задля</item>
+					<item>чого потребує взагалі задля</item>
+					<item>чого потребує задля</item>
+				
+					<item>що потрібно</item>	
+					<item>що рекомендують</item>
+					<item>що треба</item>	
+					<item>чого потребує</item>	
+					<item>чого взагалі потребує</item>
+					<item>чого потребує взагалі</item>
+					<item>що потребується</item>
+					<item>чого потребує</item>
+					<item>що треба</item>
+					
+				</words_list>
+				<possible_types>
+					<item>weak_recommendation</item>
+				</possible_types>
+				<next_position>2.11</next_position>
+			</condition>
+			<condition id="1.1.12">
+				<words_list>
+					<item>що необхідно</item>	
+					<item>що потребується</item>
+					<item>що вимагають</item>
+					<item>чого вимагає</item>	
+					<item>на чому наполягають</item>
+					<item>на чому наполягає</item>	
+				</words_list>
+				<possible_types>
+					<item>strong_recommendation</item>
+				</possible_types>
+				<next_position>2.12</next_position>
+			</condition>
+			<condition id="1.1.13">
+				<words_list>
+					<item>таблиця</item>	
+					<item>таблиці</item>
+					<item>у якій таблиці</item>
+					<item>таблицю</item>		
+				</words_list>
+				<possible_types>
+					<item>table</item>
+				</possible_types>
+				<next_position>2.13</next_position>
+			</condition>
+			<condition id="1.1.14">
+				<words_list>
+					<item>малюнок</item>	
+					<item>ілюстрація</item>
+					<item>ілюстрацію</item>
+					<item>проілюструй</item>
+					<item>проілюструйте</item>
+				</words_list>
+				<possible_types>
+					<item>figure</item>
+				</possible_types>
+				<next_position>2.14</next_position>
+			</condition>
+			<condition id="1.1.15">
+				<words_list>					
+					<item>індексація журналу</item>	
+					<item>індексацію журналу</item>
+					<item>де індексується журнал</item>
+					<item>куди входить журнал</item>
+					<item>куди включається журнал</item>
+					<item>в які бази даних входить журнал</item>
+					<item>в які бази даних включається журнал</item>
+					<item>в яких базах даних індексується журнал</item>
+					
+					<item>в які наукометричні бази входить журнал</item>
+					<item>в які наукометричні бази включається журнал</item>
+					<item>в яких наукометричних базах індексується журнал</item>
+					
+					<item>в які бази входить журнал</item>
+					<item>в які бази включається журнал</item>
+					<item>в яких базах індексується журнал</item>
+					
+					<item>індексація видання</item>	
+					<item>індексацію видання</item>
+					<item>де індексується видання</item>
+					<item>куди входить видання</item>
+					<item>куди включається видання</item>
+					<item>в які бази входить видання</item>
+					<item>в які бази включається видання</item>
+					<item>в яких базах індексується видання</item>
+					
+					<item>індексація</item>	
+					<item>індексацію</item>
+					<item>де індексується</item>
+					<item>куди входить</item>
+					<item>куди включається</item>
+					<item>в які бази входить</item>
+					<item>в які бази включається</item>
+					<item>в які бази включаєно</item>
+					<item>в яких базах індексується</item>
+					
+					<item>до яких баз входить</item>
+					<item>до яких баз включається</item>
+					<item>до яких баз включаєно</item>
+					<item>до яких баз індексується</item>
+				</words_list>
+				<possible_types>
+					<item>indexetion</item>
+				</possible_types>
+				<next_position>2.15</next_position>
+			</condition>
+			
+			<condition id="1.1.16">
+				<words_list>
+					
+					<item>які категорії робіт приймаються до журналу</item>
+					<item>які категорії робіт приймаються журналом</item>
+                    <item>які категорії робіт приймаються</item>
+					<item>які категорії робіт приймаються до видання</item>
+					<item>які категорії робіт приймаються виданням</item>
+					
+					<item>які категорії робіт виходять у журналі</item>
+					<item>які категорії робіт видаються у журналі</item>
+					<item>які категорії робіт виходять у</item>					
+					<item>які категорії робіт видаються у</item>
+					<item>які категорії робіт виходять</item>
+					<item>які категорії робіт видаються</item>
+					<item>які категорії робіт можна подати</item>
+					<item>які категорії робіт друкуються</item>
+					<item>категорії робіт які видаються</item>
+					<item>категорії робіт що видаються</item>
+					<item>категорії робіт входять</item>					
+					<item>категорії робіт журналу</item>	
+					<item>категорії робіт видання</item>
+					<item>категорії робіт у журналі</item>
+					<item>категорії робіт у виданні</item>
+					<item>які категорії робіт</item>
+					<item>категорії робіт</item>
+					<item>які роботи</item>
+				</words_list>
+				<possible_types>
+					<item>categories_of_works</item>
+				</possible_types>
+				<next_position>2.16</next_position>
+			</condition>
+						
+			<condition id="1.1.18">
+				<words_list>
+					<item>який доступ має</item>
+					<item>який має доступ </item>
+					<item>який доступ</item>	
+					<item>доступність</item>
+					<item>доступ</item>
+					<item>інформація щодо доступу</item>
+					<item>інформація про доступ</item>
+					<item>інформацію щодо доступу</item>
+					<item>інформацію про доступ</item>
+					<item>інформація стосовно доступу</item>
+					<item>інформація стосовно доступ</item>				
+					<item>знайти</item>
+					<item>де дістати</item>
+					<item>почитати</item>					
+					<item>де можу знайти</item>	
+					<item>де розміщено</item>
+					<item>де подивитись</item>
+					<item>подачу робіт</item>
+					<item>доступ до статей</item>
+					<item>доступ до журналу</item>
+				</words_list>
+				<possible_types>
+					<item>accsess</item>
+				</possible_types>
+				<next_position>2.18</next_position>
+			</condition>
+			
+			<condition id="1.1.19">
+				<words_list>
+					<item>анатомо клінічна модель</item>
+					<item>анатомоклінічна модель</item>
+					<item>анатомо-клінічна модель</item>
+					<item>клінічна модель</item>
+					
+					<item>анатомо клінічну модель</item>
+					<item>анатомоклінічну модель</item>
+					<item>анатомо-клінічну модель</item>
+					<item>клінічну модель</item>
+					
+					<item>про анатомо клінічна модель</item>
+					<item>про анатомоклінічна модель</item>
+					<item>про анатомо-клінічна модель</item>
+					<item>про клінічна модель</item>
+					
+					<item>про анатомо клінічну модель</item>
+					<item>про анатомоклінічну модель</item>
+					<item>про анатомо-клінічну модель</item>
+					<item>про клінічну модель</item>
+					
+				</words_list>
+				<result>
+					<query_type>clinical_model</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.20">
+				<words_list>
+					<item>функціональна модель</item>
+					<item>про функціональну модель</item>
+					<item>про функціональна модель</item>
+				</words_list>
+				<result>
+					<query_type>functional_model</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.21">
+				<words_list>
+					<item>які цілі</item>
+					<item>які задачі</item>
+					<item>які основні цілі</item>
+					<item>які основні задачі</item>
+					<item>цілі</item>
+					<item>задачі</item>
+					
+					<item>які цілі мають</item>
+					<item>які задачі мають</item>
+					<item>які задачі стоять у</item>
+					<item>які задачі у</item>
+					<item>які задачі стоять перед</item>
+					<item>які задачі ставляться перед</item>
+					<item>які основні цілі стоять перед</item>
+					<item>які основні задачі у</item>
+					<item>цілі що стоять перед</item>
+					<item>задачі що мають</item>
+					<item>цілі що мають</item>
+					
+					<item>яка ціль</item>
+					<item>яка задача</item>
+					<item>яка основна ціль</item>
+					<item>яка основна задача</item>
+					<item>ціль</item>
+					<item>цілі</item>
+					<item>задача</item>
+					<item>задачі</item>
+				</words_list>
+				<possible_types>
+					<item>goals</item>
+					<item>purpose</item>
+				</possible_types>
+				<next_position>2.19</next_position>
+			</condition>
+			
+			<condition id="1.1.22">
+				<words_list>
+					<item>які підходи</item>
+					<item>які основні підходи</item>
+					<item>підходи до</item>	
+					<item>підходи к</item>	
+					<item>підходи у</item>	
+					<item>підходи</item>			
+					<item>які підходи мають</item>
+					<item>які підходи має</item>
+					<item>які підходи до</item>
+					<item>які існують підходи</item>
+					<item>які існують підходи до</item>
+				</words_list>
+				<possible_types>
+					<item>approach</item>
+				</possible_types>
+				<next_position>2.20</next_position>
+			</condition>
+			
+			<condition id="1.1.23">
+				<words_list>	
+					<item>яка мета у</item>
+					<item>яка основна мета у</item>
+					<item>яка мета</item>
+					<item>яка основна мета</item>
+					<item>яку мету</item>
+					<item>яку основну мету</item>
+					<item>яку мету має</item>
+					<item>яку основну мету має</item>
+					<item>мета у</item>
+					<item>мета</item>
+					<item>мету</item>
+					
+					<item>яка ціль у</item>
+					<item>яка основна ціль у</item>
+					<item>яка головна ціль у</item>
+					<item>яка ціль</item>
+					<item>яка основна ціль</item>
+					<item>яка головна ціль</item>
+					<item>яку ціль</item>
+					<item>яку основну ціль</item>
+					<item>яку головну ціль</item>
+					<item>яку ціль</item>
+					<item>яку основну ціль має</item>
+					<item>яку головну ціль має</item>
+					<item>ціль у</item>
+					<item>ціль</item>
+					
+					<item>які цілі у</item>
+					<item>які основні цілі у</item>
+					<item>які цілі</item>					
+					<item>які основні цілі має</item>
+					<item>які основні цілі</item>
+					<item>цілі у</item>
+					<item>цілі</item>
+					
+					<item>яка задача у</item>
+					<item>яка основна задача у</item>
+					<item>яка головна задача у</item>
+					<item>яка задача</item>
+					<item>яка основна задача</item>
+					<item>яка головна задача</item>
+					<item>яку задача</item>
+					<item>яку основну задачу</item>
+					<item>яку головну задачу</item>
+					<item>яку задача</item>
+					<item>яку основну задачу має</item>
+					<item>яку головну задачу має</item>
+					<item>ціль у</item>
+					<item>ціль</item>
+					
+					<item>які задачі у</item>
+					<item>які основні задачі у</item>
+					<item>які задачі</item>					
+					<item>які основні задачі має</item>
+					<item>які основні задачі</item>
+					<item>задачі у</item>
+					<item>задачі</item>
+					
+					<item>на що спрямований</item>
+					<item>на що спрямована</item>
+					<item>на що спрямовано</item>
+					<item>на що спрямовані</item>
+					
+					<item>на кого спрямований</item>
+					<item>на кого спрямована</item>
+					<item>на кого спрямовано</item>
+					<item>на кого спрямовані</item>
+					
+					<item>що має на меті</item>
+					
+				</words_list>
+				<possible_types>
+					<item>purpose</item>
+					<item>goals</item>
+				</possible_types>
+				<next_position>2.21</next_position>
+			</condition>
+			
+			<condition id="1.1.24">
+				<words_list>	
+					<item>яка місія у</item>
+					<item>яка основна місія у</item>
+					<item>яка місія</item>
+					<item>яка основна місія</item>
+					<item>яка головна місія</item>
+					<item>яку місію</item>
+					<item>яку основну місію</item>
+					<item>яку місію має</item>
+					<item>яку основну місію має</item>
+					<item>яку місію виконує</item>
+					<item>яку основну місію виконує</item>	
+					<item>в чому полягає місія</item>	
+					<item>в чому місія</item>
+					<item>у чому полягає місія</item>	
+					<item>у чому місія</item>					
+					<item>місія</item>
+					<item>місія у</item>
+					<item>місію що виконує</item>
+					<item>місію що має</item>
+					<item>місія що виконує</item>
+					<item>місія що має</item>
+					<item>місію</item>
+				</words_list>
+				<possible_types>
+					<item>mission</item>
+					<item>label_definition</item>
+				</possible_types>
+				<next_position>2.22</next_position>
+			</condition>
+			
+			<condition id="1.1.25">
+				<words_list>	
+					<item>які області інтересів</item>
+					<item>яка область інтересів</item>
+					<item>яка тематика</item>
+					<item>яку область інтересів</item>
+					<item>яка область інтересів у журналу</item>
+					<item>яка область інтересів в журналу</item>
+					<item>яка область інтересів журналу</item>
+					<item>яка область інтересів у видання</item>
+					<item>яка область інтересів в видання</item>
+					<item>яка область інтересів видання</item>
+					<item>яка область інтересів у</item>
+					<item>яка область інтересів в</item>
+					<item>яку область інтересів</item>
+					<item>яку тематику</item>
+					<item>яку тему</item>
+					<item>область інтересів</item>
+					<item>тематику</item>
+					<item>тематика</item>		
+					<item>тема</item>	
+					<item>тему</item>	
+					<item>яку область інтересів мають</item>
+					<item>яку область інтересів має</item>
+					<item>яку тематику інтересів мають</item>
+					<item>яку тематику інтересів має</item>
+					<item>яка тематика журналу</item>
+					<item>яка тематика видання</item>
+					<item>яка тематика</item>
+					<item>на яку тему</item>
+				</words_list>
+				<possible_types>
+					<item>subject_of_interest</item>
+				</possible_types>
+				<next_position>2.23</next_position>
+			</condition>
+			
+			<condition id="1.1.26">
+				<words_list>	
+					<item>які є види реабілітаційних послуг</item>
+					<item>які існують види реабілітаційних послуг</item>
+					<item>які бувають види реабілітаційних послуг</item>
+					
+					<item>які є види послуг</item>
+					<item>які існують види послуг</item>
+					<item>які бувають види послуг</item>
+					
+					<item>які є види реабілітації</item>
+					<item>які існують види реабілітації</item>
+					<item>які бувають види реабілітації</item>
+					
+					<item>види реабілітаційних послуг</item>
+					<item>різновиди реабілітаційних послуг</item>
+					<item>класифікація реабілітаційних послуг</item>
+					<item>класифікацію реабілітаційних послуг</item>
+					<item>реабілітаційних послуг класифікація</item>
+					<item>реабілітаційних послуг класифікацію</item>
+					<item>послуг реабілітаційних класифікація</item>
+					<item>реабілітаційні послуги</item>
+					<item>класифікуються реабілітаційні послуги</item>					
+				</words_list>
+				<result>
+					<query_type>reabilitation_classification</query_type>	
+					<query_type>sub_class</query_type>	
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.27">
+				<words_list>
+					<item>рекомендації вооз щодо реабілітації в системах охорони здоров'я</item>
+					<item>рекомендації вооз щодо реабілітації в лікарнях</item>
+					<item>що рекомендує вооз щодо реабілітації</item>
+					<item>що рекомендує вооз для реабілітації</item>
+					<item>що рекомендують для реабілітації</item>
+					<item>що рекомендується для реабілітації</item>
+					<item>що рекомендується</item>
+					<item>що рекомендовано для реабілітації</item>
+					<item>рекомендації</item>
+					<item>що рекомендує вооз</item>
+					<item>що рекомендує</item>
+				</words_list>
+				<result>
+					<query_type>recomendations</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>					
+				</result>
+			</condition>
+			
+			<condition id="1.1.28">
+				<words_list>	
+					<item>впровадження</item>
+					<item>впроаджується</item>
+					<item>впроаджуються</item>
+					<item>впроаджує</item>
+					<item>впроаджують</item>
+					<item>впровдити</item>
+					<item>що впроаджують</item>
+					<item>що впроаджуються</item>
+				</words_list>
+				<result>
+					<query_type>implementation</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.29">
+				<words_list>	
+					<item>яка є література</item>
+					<item>які є книги</item>
+					<item>яка є журнали</item>
+					<item>яка існують книги</item>
+					<item>яка існують журнали</item>
+					
+					<item>яка існує література</item>
+					<item>літературу</item>
+					<item>література з</item>
+					<item>література про</item>
+					<item>література з питань</item>
+					<item>література щодо</item>
+					<item>література у якій йдеться</item>
+					<item>літературу з</item>
+					<item>літературу про</item>
+					<item>літературу з питань</item>
+					<item>літературу щодо</item>
+					<item>літературу у якій йдеться</item>
+					<item>де написано про</item>
+					<item>де написано</item>
+				</words_list>
+				<possible_types>
+					<query_type>literature</query_type>					
+				</possible_types>
+				<next_position>2.25</next_position>
+			</condition>
+			
+			<condition id="1.1.30">
+				<words_list>	
+					<item>клінічний випадок пацієнта з втратою кінцівок</item>
+					<item>клінічний випадок пацієнта з втратою</item>
+					<item>клінічний випадок пацієнта</item>
+					<item>клінічний випадок</item>
+					<item>пацієнт без кінцівок</item>
+					<item>втрата кцнцівок</item>
+					<item>втрату кцнцівок</item>
+					<item>пацієнт без ніг</item>
+					<item>пацієнт без рук</item>
+					<item>безногий</item>
+					<item>випадок з калікою</item>
+					<item>каліку</item>
+					<item>каліка</item>
+					<item>безрукий</item>
+					<item>людина втратила ноги</item>
+					<item>людина втратила кінцівки</item>
+					<item>людина втратила кінцівки</item>
+					<item>втратила ноги</item>
+					<item>втратив ноги</item>
+					<item>людина втратила руки</item>
+					<item>втратила руки</item>
+					<item>втратив руки</item>
+					<item>без ніг</item>
+					<item>без рук</item>
+					<item>без ноги</item>
+					<item>без руки</item>
+					<item>жити без ніг</item>
+					<item>жити без рук</item>
+					<item>втратив ноги</item>
+					<item>втратив руки</item>
+					<item>втрата кінцівок</item>
+					<item>втрата ніг</item>
+					<item>втрата ног</item>
+					<item>втрата рук</item>
+				</words_list>
+				<result>
+					<query_type>clinical_case</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.31">
+				<words_list>	
+					<item>стратегії</item>
+					<item>стратегію</item>
+					<item>стратегія</item>
+				</words_list>
+				<result>
+					<query_type>strategy</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>					
+				</result>
+			</condition>
+			
+			<condition id="1.1.32">
+				<words_list>	
+					<item>принципи командної роботи</item>
+					<item>основи командної роботи</item>
+					<item>існують принципи командної роботи</item>
+					<item>які існують принципи командної роботи</item>
+					<item>є принципи командної роботи</item>
+					<item>які є принципи командної роботи</item>
+					<item>які принципи командної роботи</item>
+					<item>на чому заснвується командна робота</item>
+					<item>на чому грунтується командна робота</item>
+					<item>на чом заснвується командна робота</item>
+					<item>на чом грунтується командна робота</item>
+					<item>на чим заснвується командна робота</item>
+					<item>на чим грунтується командна робота</item>
+					
+					<item>на чому заснвується робота командна</item>
+					<item>на чому грунтується робота командна</item>
+					<item>на чом заснвується робота командна</item>
+					<item>на чом грунтується робота командна</item>
+					<item>на чим заснвується робота командна</item>
+					<item>на чим грунтується робота командна</item>
+					
+					<item>на чому заснвується робота командна</item>
+					<item>на чому грунтується робота командна</item>
+					<item>на чом заснвується робота командна</item>
+					<item>на чом грунтується робота командна</item>
+					<item>на чим заснвується робота командна</item>
+					<item>на чим грунтується робота командна</item>
+				</words_list>
+				<result>
+					<query_type>command_work_principels</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.33">
+				<words_list>	
+					<item>виміри навчання</item>
+					<item>виміри навчання пацієнтів</item>
+					<item>виміри навчання для пацієнтів</item>
+					<item>навчання пацієнтів</item>
+				</words_list>
+				<result>
+					<query_type>dimentions_of_learining</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.34">
+				<words_list>					
+					<item>вирішити ці проблеми</item>
+					<item>вирішити наявні проблеми</item>
+					<item>вирішити проблеми</item>
+					<item>проблеми вирішити</item>
+					<item>наявні проблеми вирішити</item>
+					<item>вірішення проблем</item>
+					<item>проблем вірішення</item>
+					<item>проблеми вірішення</item>
+				</words_list>
+				<result>
+					<query_type>problem_solving</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.35">
+				<words_list>	
+					<item>покращення стандартів у дослідженнях фізичної та реабілітаційної медицини</item>
+					<item>поліпшення стандартів у дослідженнях фізичної та реабілітаційної медицини</item>
+					
+					<item>покращення стандартів у дослідженнях реабілітаційної медицини</item>
+					<item>поліпшення стандартів у дослідженнях реабілітаційної медицини</item>
+					
+					<item>покращення у фізичної та реабілітаційної медицини</item>
+					<item>поліпшення у фізичної та реабілітаційної медицини</item>
+					
+					<item>покращення стандартів у дослідженнях</item>
+					<item>поліпшення стандартів у дослідженнях</item>
+					
+					<item>покращення у дослідженнях</item>
+					<item>поліпшення у дослідженнях</item>
+					
+					<item>покращення стандартів</item>
+					<item>поліпшення стандартів</item>
+					
+					<item>покращити стандарти у дослідженнях фізичної та реабілітаційної медицини</item>
+					<item>поліпшити стандарти у дослідженнях фізичної та реабілітаційної медицини</item>
+					
+					<item>покращити стандарти у дослідженнях реабілітаційної медицини</item>
+					<item>поліпшити стандарти у дослідженнях реабілітаційної медицини</item>
+					
+					<item>покращити стандарти у медичних дослідженнях</item>
+					<item>поліпшити стандарти у медичних дослідженнях</item>
+					
+					<item>покращити стандарти медичних досліджень</item>
+					<item>поліпшити стандарти медичних досліджень</item>
+					
+					<item>покращити стандарти у дослідженнях</item>
+					<item>поліпшити стандарти у дослідженнях</item>
+					
+					<item>покращити дослідження</item>
+					<item>поліпшити дослідження</item>
+					
+					<item>покращити стандарти</item>
+					<item>поліпшити стандарти</item>					
+					
+					<item>покращити дослідження</item>
+					<item>поліпшити дослідження</item>					
+				
+					
+				</words_list>
+				<result>
+					<query_type>standards_upgrade</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.36">
+				<words_list>	
+					<item>стандарти втручання</item>
+					<item>стандартизувати втручання</item>
+					<item>стандартизація втручання</item>
+					<item>стандартизацію втручання</item>
+				</words_list>
+				<result>
+					<query_type>intervention_standardization</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.37">
+				<words_list>	
+					<item>створення якісних дизайнів досліджень специфічних для фрм</item>
+					<item>створення якісних дизайнів досліджень</item>
+					<item>створення дизайнів досліджень</item>
+					<item>дизайни досліджень специфічні для фрм</item>
+					<item>специфічні для фрм дизайни досліджень</item>
+					<item>специфічні для фрм дизайни</item>
+					<item>специфічне для фрм пленування досліджень</item>
+					<item>специфічне для фрм пленування експеримантів</item>
+					<item>специфіка планування досліджень для фрм</item>
+					<item>специфіка дизйнів досліджень для фрм</item>
+					<item>специфіку дизйнів досліджень для фрм</item>
+					<item>специфіку планування досліджень для фрм</item>
+					
+					<item>створення якісних дизайнів досліджень специфічних для фізичної реабілітаційної медицини</item>
+					<item>дизайни досліджень специфічні для фізичної реабілітаційної медицини</item>
+					<item>специфічні для фізичної реабілітаційної медицини дизайни досліджень</item>
+					<item>специфічні для фізичної реабілітаційної медицини дизайни</item>
+					<item>специфічне для фізичної реабілітаційної медицини пленування досліджень</item>
+					<item>специфічне для фізичної реабілітаційної медицини пленування експеримантів</item>
+					<item>специфіка планування досліджень для фізичної реабілітаційної медицини</item>
+					<item>специфіка дизйнів досліджень для фізичної реабілітаційної медицини</item>
+					<item>специфіку дизйнів досліджень для фізичної реабілітаційної медицини</item>
+					<item>специфіку планування досліджень для фізичної реабілітаційної медицини</item>
+					
+					<item>створення якісних дизайнів досліджень специфічних для реабілітаційної медицини</item>
+					<item>дизайни досліджень специфічні для реабілітаційної медицини</item>
+					<item>специфічні для реабілітаційної медицини дизайни досліджень</item>
+					<item>специфічні для реабілітаційної медицини дизайни</item>
+					<item>специфічне для реабілітаційної медицини пленування досліджень</item>
+					<item>специфічне для реабілітаційної медицини пленування експеримантів</item>
+					<item>специфіка планування досліджень для реабілітаційної медицини</item>
+					<item>специфіка дизйнів досліджень для реабілітаційної медицини</item>
+					<item>специфіку дизйнів досліджень для реабілітаційної медицини</item>
+					<item>специфіку планування досліджень для реабілітаційної медицини</item>
+					
+					<item>створення якісних дизайнів досліджень специфічних для реабілітації</item>
+					<item>дизайни досліджень специфічні для реабілітації</item>
+					<item>специфічні для реабілітації дизайни досліджень</item>
+					<item>специфічні для реабілітації дизайни</item>
+					<item>специфічне для реабілітації пленування досліджень</item>
+					<item>специфічне для реабілітації пленування експеримантів</item>
+					<item>специфіка планування досліджень для реабілітації</item>
+					<item>специфіка дизйнів досліджень для реабілітації</item>
+					<item>специфіку дизйнів досліджень для реабілітації</item>
+					<item>специфіку планування досліджень для реабілітації</item>
+					
+					<item>дизайни досліджень</item>
+					<item>дизайн досліджень</item>
+					<item>планування досліджень</item>
+					<item>планування експериментів</item>					
+
+				</words_list>
+				<result>
+					<query_type>research_designes</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>					
+				</result>
+			</condition>
+			
+			<condition id="1.1.38">
+				<words_list>
+					<item>яке представлено фрм в світі доказової медицини</item>
+					<item>представлено фрм в світі доказової медицини</item>
+					<item>представлена фрм в світі доказової медицини</item>
+					
+					<item>в світі доказової медицини представлено фрм</item>
+					<item>в світі доказової медицини представлена фрм</item>
+					
+					<item>фрм і доказова медицина</item>
+					<item>доказова медицина фрм</item>
+					<item>представництво фрм в світі доказової медицини</item>
+					<item>представництво фрм</item>
+					<item>представництво в світі доказової медицини</item>
+					<item>доказова медицина</item>
+					<item>доказову медицину</item>
+					
+					<item>яке представлено фізичної реабілітаційної медицини в світі доказової медицини</item>
+					<item>представлено фізичної реабілітаційної медицини в світі доказової медицини</item>
+					<item>представлена фізичної реабілітаційної медицини в світі доказової медицини</item>
+					
+					<item>в світі доказової медицини представлено фізичної реабілітаційної медицини</item>
+					<item>в світі доказової медицини представлена фізичної реабілітаційної медицини</item>
+					
+					<item>фізичної реабілітаційної медицини і доказова медицина</item>
+					<item>доказова медицина фізичної реабілітаційної медицини</item>
+					<item>представництво фізичної реабілітаційної медицини в світі доказової медицини</item>
+					<item>представництво фізичної реабілітаційної медицини</item>
+					
+					<item>яке представництво реабілітаційної медицини в світі доказової медицини</item>
+					<item>представництво реабілітаційної медицини в світі доказової медицини</item>
+					<item>представлена реабілітаційної медицини в світі доказової медицини</item>
+					
+					<item>в світі доказової медицини представництво реабілітаційної медицини</item>
+					<item>в світі доказової медицини представлена реабілітаційної медицини</item>
+					
+					<item>реабілітаційної медицини і доказова медицина</item>
+					<item>доказова медицина реабілітаційної медицини</item>
+					<item>представництво реабілітаційної медицини в світі доказової медицини</item>
+					<item>представництво реабілітаційної медицини</item>
+					
+					
+					<item>яке представництво реабілітаційної медицини в світі доказової медицини</item>
+					<item>представництво реабілітаційної медицини в світі доказової медицини</item>
+					<item>представлена реабілітаційної медицини в світі доказової медицини</item>
+					
+					<item>в світі доказової медицини представництво реабілітаційної медицини</item>
+					<item>в світі доказової медицини представлена реабілітаційної медицини</item>
+					
+					<item>реабілітаційної медицини і доказова медицина</item>
+					<item>доказова медицина реабілітаційної медицини</item>
+					<item>представництво реабілітаційної медицини в світі доказової медицини</item>
+					<item>представництво реабілітаційної медицини</item>
+					
+					<item>яке представництво реабілітації в світі доказової медицини</item>
+					<item>представництво реабілітації в світі доказової медицини</item>
+					<item>представлена реабілітація в світі доказової медицини</item>
+					
+					<item>в світі доказової медицини представництво реабілітація</item>
+					<item>в світі доказової медицини представлена реабілітація</item>
+					
+					<item>реабілітація і доказова медицина</item>
+					<item>доказова медицина реабілітація</item>
+					<item>представництво реабілітації в світі доказової медицини</item>
+					<item>представництво реабілітації</item>
+					
+				</words_list>
+				<result>
+					<query_type>representation</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>	
+				</result>
+			</condition>
+			
+			<condition id="1.1.40">
+				<words_list>	
+					<item>передача наукових знань до клінічної практики</item>
+					<item>передача наукових знань до клінічної</item>
+					<item>передача наукових знань до практики</item>
+					<item>передача наукових знань</item>
+					
+					<item>передача знань до клінічної практики</item>
+					<item>передача знань до клінічної</item>
+					<item>передача знань до практики</item>
+					<item>передача знань</item>					
+					
+					<item>передача результатів досліджень до клінічної практики</item>
+					<item>передача результатів досліджень до клінічної</item>
+					<item>передача результатів досліджень до практики</item>
+					<item>передача результатів досліджень</item>
+				</words_list>
+				<result>
+					<query_type>knowledge_transfer</query_type>	
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>	
+				</result>
+			</condition>
+			
+			<condition id="1.1.41">
+				<words_list>
+					<item>про членство в</item>
+					<item>про членство у</item>
+					<item>про членство</item>
+					<item>членство в</item>					
+					<item>членство у</item>					
+					<item>членство</item>
+				</words_list>
+				<possible_types>
+					<item>membership</item>
+				</possible_types>
+				<next_position>2.27</next_position>
+			</condition>
+			
+			
+			<condition id="1.1.42">
+				<words_list>	
+					<item>яка сфера застосування</item>
+					<item>сферу застосування</item>
+				</words_list>
+				<result>
+					<query_type>scope</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.43">
+				<words_list>					
+					<item>комітети секції фізичної та реабілітаційної медицини європейського союзу медичних спеціалістів</item>
+					<item>комітети секції реабілітаційної медицини європейського союзу медичних спеціалістів</item>
+					<item>комітети секції фізичної та реабілітаційної медицини європейського союзу</item>
+					<item>комітети фізичної та реабілітаційної медицини</item>
+					<item>комітети секції фізичної та реабілітаційної медицини</item>
+					<item>комітети секції реабілітаційної медицини</item>
+					<item>комітети фізичної та реабілітаційної медицини</item>
+					<item>комітети реабілітаційної медицини</item>
+					<item>комітети реабілітаційної медицини європейського союзу медичних спеціалістів</item>
+					<item>комітети реабілітаційної медицини європейського союзу</item>
+					<item>комітети реабілітаційної медицини єс</item>
+					
+					<item>комітети секції фізичної та реабілітаційної медицини єсмс</item>
+					<item>комітети секції реабілітаційної медицини єсмс</item>
+					<item>комітети реабілітаційної медицини єсмс</item>
+					<item>комітети єсмс</item>
+					
+					<item>комітети</item>
+					<item>кпп</item>
+				</words_list>
+				<result>
+					<query_type>committees</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.44">
+				<words_list>					
+					<item>склад європейської академії реабілітаційної медицини</item>
+					<item>склад академії реабілітаційної медицини</item>
+					<item>склад єарм</item>	
+					<item>склад у єарм</item>
+				</words_list>
+				<result>
+					<query_type>composition</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.45">
+				<words_list>					
+					<item>напрацювання з етики європейської академії реабілітаційної медицини</item>
+					<item>етика європейської академії реабілітаційної медицини</item>
+					<item>етику європейської академії реабілітаційної медицини</item>
+					
+					<item>напрацювання з етики єарм</item>
+					<item>етика єарм</item>
+					<item>етику єарм</item>
+					<item>етику</item>
+				
+					<item>напрацювання з етики</item>
+				</words_list>
+				<result>
+					<query_type>etics</query_type>					
+				</result>
+			</condition>
+			
+			<condition id="1.1.46">
+				<words_list>
+					<item>які існують книги європейської академії реабілітаційної медицини</item>
+					<item>які є книги європейської академії реабілітаційної медицини</item>
+					<item>які знаєш книги європейської академії реабілітаційної медицини</item>
+					<item>які знаєте книги європейської академії реабілітаційної медицини</item>
+					<item>які знаєш книги європейської академії реабілітаційної медицини</item>
+					<item>які знаєте книги європейської академії реабілітаційної медицини</item>
+					<item>які існують книги єарм</item>
+					<item>які є книги єарм</item>
+					<item>які знаєш книги єарм</item>
+					<item>які знаєте книги єарм</item>
+					<item>які знаєш книги єарм</item>
+					<item>які знаєте книги єарм</item>
+					<item>книги європейської академії реабілітаційної медицини</item>
+					<item>книги по реабілітації</item>	
+					<item>книги з реабілітаційної медицини</item>
+					<item>книги по реабілітаційній медицині</item>
+					<item>книги єарм</item>
+					<item>книги, що опубліковані в колекції академії springer france</item>
+					<item>книги що опубліковані в колекції академії springer france</item>
+					<item>книги опубліковані в колекції академії springer france</item>
+					<item>книги в колекції академії springer france</item>
+					<item>книги у колекції академії springer france</item>
+					<item>книги академії springer france</item>
+					<item>книги в колекції springer france</item>
+					<item>книги у колекції springer france</item>
+					<item>книги springer france</item>
+					<item>springer france книги</item>
+					<item>springer france</item>
+					<item>книги</item>
+				</words_list>
+				<result>
+					<query_type>books</query_type>					
+				</result>
+			</condition>
+			
+			
+			<condition id="1.1.47">
+				<words_list>					
+					<item>щорічна премія європейської академії реабілітаційної медицини</item>	
+					<item>щорічну премію європейської академії реабілітаційної медицини</item>	
+					<item>щодо щорічної премії європейської академії реабілітаційної медицини</item>
+					<item>премія європейської академії реабілітаційної медицини</item>	
+					<item>премію європейської академії реабілітаційної медицини</item>	
+					<item>щодо премії європейської академії реабілітаційної медицини</item>
+					
+					<item>щорічна премія єарм</item>	
+					<item>щорічну премію єарм</item>	
+					<item>щодо щорічної премії єарм</item>
+					<item>премія єарм</item>	
+					<item>премію єарм</item>	
+					<item>премії єарм</item>	
+					<item>щодо премії єарм</item>
+					
+					<item>премії</item>
+					<item>премія</item>
+					<item>премію</item>
+				</words_list>
+				<result>
+					<query_type>awards</query_type>	
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.48">
+				<words_list>					
+					<item>які функції організму вимагають оцінювання</item>	
+					<item>функції організму що вимагають оцінювання</item>	
+					<item>функції організму які вимагають оцінювання</item>
+					<item>функції організму вимагають оцінювання</item>
+					<item>функції організму оцінюються</item>
+					<item>оцінюються функції організму</item>
+					<item>оцінювання функції організму</item>
+					<item>оцінювання функцій організму</item>
+					<item>оцінювання організму</item>
+				</words_list>
+				<result>
+					<query_type>body_functions_assessment</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="1.1.49">
+				<words_list>					
+					<item>методи оцінювання</item>	
+					<item>методики оцінювання</item>
+					<item>метод оцінювання</item>	
+					<item>способи оцінювання</item>	
+					<item>спосіб оцінювання</item>	
+					<item>які існують методи оцінювання</item>	
+					<item>які є методи оцінювання</item>
+					<item>існують методи оцінювання</item>	
+					<item>є методи оцінювання</item>
+				</words_list>
+				<result>
+					<query_type>evaluation_methods</query_type>			
+				</result>
+			</condition>
+			
+			<condition id="1.1.50">
+				<words_list>
+					<item>beck depression inventory</item>
+					<item>mini mental state examination</item>
+					<item>modified ashworth scale</item>
+					
+					<item>інвентаризація депресії</item>
+					<item>міні-обстеження психічного стану</item>
+					<item>обстеження психічного стану</item>
+					<item>шкала ешворта</item>
+					
+					<item>інструменти оцінювання функцій організму</item>
+					<item>інструменти оцінювання організму</item>						
+					<item>інструменти оцінювання</item>	
+					<item>які існують інструменти оцінювання</item>	
+					<item>які є інструменти оцінювання</item>
+					<item>за допомогою чого оцініюються</item>
+					<item>чим оцінюються оцініюються</item>
+					<item>чим можна оцінити</item>
+					<item>чим оцінити</item>
+				</words_list>
+				<result>
+					<query_type>evaluation_tools</query_type>					
+				</result>
+			</condition>
+			
+			<condition id="1.1.51">
+				<words_list>
+					<item>скільки може бути видів</item>
+					<item>скільки бути може видів</item>
+					<item>скільки може видів</item>
+					<item>скільки існує видів у</item>
+                    <item>скільки існує видів</item>					
+					<item>скільки видів у є</item>
+					<item>скільки видів в є</item>
+					<item>скільки видів у</item>	
+					<item>скільки видів є у</item>
+					<item>скільки видів є в</item>
+					<item>скільки видів має</item>
+					<item>скільки видів є</item>
+					<item>скільки є видів</item>
+					<item>скільки видів</item>
+
+					<item>скільки може бути типів</item>
+					<item>скільки бути може типів</item>
+					<item>скільки може типів</item>
+                    <item>скільки існує типів</item>
+					<item>скільки типів у є</item>
+					<item>скільки типів в є</item>
+					<item>скільки типів у</item>	
+					<item>скільки типів є у</item>
+					<item>скільки типів є в</item>
+					<item>скільки типів має</item>
+					<item>скільки є типів</item>						
+					<item>скільки типів</item>	
+				
+				
+					<item>скільки може бути</item>
+					<item>скільки бути може</item>
+					<item>скільки може</item>
+                    <item>скільки існує</item>
+					<item>скільки у є</item>
+					<item>скільки в є</item>
+					<item>скільки у</item>	
+					<item>скільки в</item>	
+					<item>скільки є у</item>
+					<item>скільки є в</item>
+					
+					<item>скільки є</item>				
+				
+					<item>скілки</item>
+					<item>скілко</item>
+					<item>сколки</item>
+					<item>скілько</item>
+					<item>скольки</item>
+					<item>сколько</item>
+					<item>скільки</item>
+					
+					<item>яка кількість існує</item>
+					<item>яка кількість може бути</item>
+					<item>яка кількість бути може</item>
+					<item>яка кількість може</item>
+					
+					<item>яка кількість</item>
+					<item>в якій кількості</item>
+					<item>у якій кількості</item>
+					
+					<item>кількість</item>					
+					<item>багато</item>
+					<item>чи багато</item>
+					<item>чи є багато</item>
+					<item>чи багато є</item>
+					<item>чи багато є</item>
+				</words_list>
+				<possible_types>
+					<item>count_derivatives</item>
+					<item>count_authors</item>
+				</possible_types>
+				<next_position>2.26</next_position>
+			</condition>
+			
+			
+			
+			<condition id="1.1.52">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>individuals</query_type>
+					<query_type>predicate_query</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>linked_classes_down</query_type>
+					<query_type>linked_classes_up</query_type>
+					<input_entity>1.1</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+	</condition_level>
+
+	<condition_level id="2">
+		<position id="2.1">
+			<condition id="2.1.1">
+				<words_list>
+					<item>назви</item>	
+					<item>приклади</item>					
+					<item>найменування</item>
+				</words_list>
+				<possible_types>
+					<item>individuals</item>
+				</possible_types>
+				<next_position>3.1</next_position>
+			</condition>			
+			
+			<condition id="2.1.2">
+				<words_list>
+					<item>основні аспекти</item>	
+					<item>основні види</item>	
+					<item>основні різновиди</item>			
+				    <item>основні теми</item>	
+					<item>основні ідеї</item>
+					<item>основні тези</item>
+					<item>основні положення</item>
+					
+					<item>аспекти основні</item>	
+					<item>види основні</item>	
+					<item>різновиди основні</item>			
+				    <item>теми основні</item>	
+					<item>ідеї основні</item>
+					<item>тези основні</item>
+					<item>положення основні</item>
+					
+					<item>головні аспекти</item>	
+					<item>головні види</item>	
+					<item>головні різновиди</item>			
+				    <item>головні теми</item>	
+					<item>головні ідеї</item>
+					<item>головні тези</item>
+					<item>головні положення</item>
+					
+					<item>аспекти головні</item>	
+					<item>види головні</item>	
+					<item>різновиди головні</item>			
+				    <item>теми головні</item>	
+					<item>ідеї головні</item>
+					<item>тези головні</item>
+					<item>положення головні</item>
+					
+					<item>базові аспекти</item>	
+					<item>базові види</item>	
+					<item>базові різновиди</item>			
+				    <item>базові теми</item>	
+					<item>базові ідеї</item>
+					<item>базові тези</item>
+					<item>базові положення</item>
+					
+					<item>аспекти базові</item>	
+					<item>види базові</item>	
+					<item>різновиди базові</item>			
+				    <item>теми базові</item>	
+					<item>ідеї базові</item>
+					<item>тези базові</item>
+					<item>положення базові</item>
+					<item>аспекти</item>	
+					<item>види</item>	
+					<item>різновиди</item>			
+				    <item>теми</item>	
+					<item>ідеї</item>
+					<item>тези</item>
+					<item>положення</item>
+				</words_list>
+				<possible_types>
+					<item>aspect</item>
+				</possible_types>
+				<next_position>3.2</next_position>
+			</condition>
+			<condition id="2.1.3">
+				<words_list>
+					<item>основні розділи</item>
+					<item>розділи основні</item>
+					<item>розділи</item>	
+					<item>частини</item>
+					<item>глави</item>
+					<item>глави</item>	
+				</words_list>
+				<possible_types>
+					<item>chapter</item>
+				</possible_types>
+				<next_position>3.3</next_position>
+			</condition>
+			
+			<condition id="2.1.4">
+				<words_list>				
+					<item>підрозділи</item>	
+					<item>підрозділи у розділі</item>
+					<item>підрозділи у главі</item>
+					<item>частини розділу</item>
+					<item>частини у розділі</item>
+					<item>зміст</item>
+					<item>зміст у розділі</item>
+					<item>зміст у главі</item>
+					<item>змістовні частини</item>
+				</words_list>
+				<possible_types>
+					<item>sub_class</item>
+					<item>topic</item>
+				</possible_types>
+				<next_position>3.4</next_position>
+			</condition>
+			
+			<condition id="2.1.5">
+				<words_list>	
+					<item>виміри навчання</item>
+					<item>виміри навчання пацієнтів</item>
+					<item>виміри навчання для пацієнтів</item>
+					<item>навчання пацієнтів</item>
+				</words_list>
+				<result>
+					<query_type>dimentions_of_learining</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.1</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.1.6">
+				<words_list>	
+					<item>відновлення</item>
+				</words_list>
+				<result>
+					<query_type>true_recovery</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.1</input_entity>
+				</result>
+			</condition>
+			
+			
+			<condition id="2.1.7">
+				<words_list>
+					<item>рекомендації вооз щодо реабілітації в системах охорони здоров'я</item>
+					<item>рекомендації вооз щодо реабілітації в лікарнях</item>
+					<item>рекомендації вооз щодо реабілітації</item>
+					<item>рекомендації щодо реабілітації</item>
+					<item>рекомендації з реабілітації</item>				
+					<item>рекомендації</item>
+					<item>рекомендації вооз</item>
+
+				</words_list>
+				<result>
+					<query_type>recomendations</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>1.1</input_entity>					
+				</result>
+			</condition>
+			
+			
+			<condition id="2.1.8">
+				<words_list>
+					<item>any_words</item>	
+				</words_list>
+				<result>
+					<query_type>individuals</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.1</input_entity>
+				</result>
+			</condition>			
+			<default>
+				<result>unknown</result>
+			</default>			
+		</position>
+		<position id="2.2">
+			<condition id="2.2.1">
+				<words_list>
+					<item>основні аспекти</item>	
+					<item>основні види</item>	
+					<item>основні різновиди</item>			
+				    <item>основні теми</item>	
+					<item>основні ідеї</item>
+					<item>основні тези</item>
+					<item>основні положення</item>
+					
+					<item>основним аспектам</item>	
+					<item>основним видам</item>	
+					<item>основним різновидам</item>			
+				    <item>основним темам</item>	
+					<item>основним ідеям</item>
+					<item>основним тезам</item>
+					<item>основним положенням</item>
+					
+					<item>аспекти основні</item>	
+					<item>види основні</item>	
+					<item>різновиди основні</item>			
+				    <item>теми основні</item>	
+					<item>ідеї основні</item>
+					<item>тези основні</item>
+					<item>положення основні</item>
+					
+					<item>аспектам основним</item>	
+					<item>видам основним</item>	
+					<item>різновидам основним</item>			
+				    <item>темам основним</item>	
+					<item>ідеям основним</item>
+					<item>тезам основним</item>
+					<item>положенням основним</item>
+					
+					<item>головні аспекти</item>	
+					<item>головні види</item>	
+					<item>головні різновиди</item>			
+				    <item>головні теми</item>	
+					<item>головні ідеї</item>
+					<item>головні тези</item>
+					<item>головні положення</item>
+					
+					<item>головним аспектам</item>	
+					<item>головним видам</item>	
+					<item>головним різновидам</item>			
+				    <item>головним темам</item>	
+					<item>головним ідеям</item>
+					<item>головним тезам</item>
+					<item>головним положенням</item>
+					
+					<item>аспекти головні</item>	
+					<item>види головні</item>	
+					<item>різновиди головні</item>			
+				    <item>теми головні</item>	
+					<item>ідеї головні</item>
+					<item>тези головні</item>
+					<item>положення головні</item>
+					
+					<item>аспектам головним</item>	
+					<item>видам головним</item>	
+					<item>різновидам головним</item>			
+				    <item>темам головним</item>	
+					<item>ідеям головним</item>
+					<item>тезам головним</item>
+					<item>положенням головним</item>
+					
+					<item>базові аспекти</item>	
+					<item>базові види</item>	
+					<item>базові різновиди</item>			
+				    <item>базові теми</item>	
+					<item>базові ідеї</item>
+					<item>базові тези</item>
+					<item>базові положення</item>
+					
+					<item>базовим аспектам</item>	
+					<item>базовим видам</item>	
+					<item>базовим різновидам</item>			
+				    <item>базовим темам</item>	
+					<item>базовим ідеям</item>
+					<item>базовим тезам</item>
+					<item>базовим положенням</item>
+					
+					<item>аспекти базові</item>	
+					<item>види базові</item>	
+					<item>різновиди базові</item>			
+				    <item>теми базові</item>	
+					<item>ідеї базові</item>
+					<item>тези базові</item>
+					<item>положення базові</item>
+					<item>аспекти</item>	
+					<item>види</item>	
+					<item>різновиди</item>			
+				    <item>теми</item>	
+					<item>ідеї</item>
+					<item>тези</item>
+					<item>положення</item>
+					
+					<item>аспектам базовим</item>	
+					<item>видам базовим</item>	
+					<item>різновидам базовим</item>			
+				    <item>темам базовим</item>	
+					<item>ідеям базовим</item>
+					<item>тезам базовим</item>
+					<item>положенням базовим</item>
+					<item>аспектам</item>	
+					<item>видам</item>	
+					<item>різновидам</item>			
+				    <item>темам</item>	
+					<item>ідеям</item>
+					<item>тезам</item>
+					<item>положенням</item>
+				</words_list>
+				<possible_types>
+					<item>aspect_amply</item>
+				</possible_types>
+				<next_position>3.5</next_position>
+			</condition>
+			<condition id="2.2.2">
+				<words_list>
+					<item>чим є</item>	
+					<item>до чого відноситься</item>
+					<item>до чого входить</item>
+					<item>складовою чого є</item>	
+					<item>до чого належить</item>
+					<item>чому належить</item>	
+				</words_list>
+				<possible_types>
+					<item>super_class</item>
+				</possible_types>
+				<next_position>3.6</next_position>
+			</condition>
+			
+			<condition id="2.2.3">
+				<words_list>
+					<item>основні теми</item>
+					<item>теми основні</item>
+					<item>підрозділи</item>	
+					<item>частини розділу</item>
+					<item>зміст</item>
+				</words_list>
+				<possible_types>
+					<item>topic_amply</item>
+				</possible_types>
+				<next_position>3.7</next_position>
+			</condition>
+			
+			<condition id="2.2.4">
+				<words_list>
+					<item>що включає</item>					
+					<item>складові частини</item>
+					<item>складові</item>
+					<item>склад</item>
+					<item>включає</item>					
+					<item>що входить до складу</item>
+					<item>що входить у склад</item>
+					<item>що входить</item>
+					<item>що до складу входить</item>
+					<item>що у склад входить</item>
+					<item>що до складу</item>
+					<item>що входить до</item>
+					<item>що входить у</item>
+					<item>що входить</item>
+				</words_list>
+				<possible_types>
+					<item>sub_class_amply</item>
+				</possible_types>
+				<next_position>3.8</next_position>
+			</condition>
+			
+			<condition id="2.2.5">
+				<words_list>	
+					<item>передача наукових знань до клінічної практики</item>
+					<item>передача наукових знань до клінічної</item>
+					<item>передача наукових знань до практики</item>
+					<item>передача наукових знань</item>
+					
+					<item>передача знань до клінічної практики</item>
+					<item>передача знань до клінічної</item>
+					<item>передача знань до практики</item>
+					<item>передача знань</item>					
+					
+					<item>передача результатів досліджень до клінічної практики</item>
+					<item>передача результатів досліджень до клінічної</item>
+					<item>передача результатів досліджень до практики</item>
+					<item>передача результатів досліджень</item>
+				</words_list>
+				<result>
+					<query_type>knowledge_transfer</query_type>	
+					<query_type>label_definition</query_type>
+					<input_entity>2.2</input_entity>	
+				</result>
+			</condition>
+			
+			<condition id="2.2.6">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>predicate_definition</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>sub_class_amply</query_type>
+					<input_entity>2.2</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.3">
+			<condition id="2.3.1">
+				<words_list>
+					<item>анатомо клінічна модель</item>
+					<item>анатомоклінічна модель</item>
+					<item>анатомо-клінічна модель</item>
+					<item>клінічна модель</item>
+					
+					<item>анатомо клінічну модель</item>
+					<item>анатомоклінічну модель</item>
+					<item>анатомо-клінічну модель</item>
+					<item>клінічну модель</item>
+					
+					<item>про анатомо клінічна модель</item>
+					<item>про анатомоклінічна модель</item>
+					<item>про анатомо-клінічна модель</item>
+					<item>про клінічна модель</item>
+					
+					<item>про анатомо клінічну модель</item>
+					<item>про анатомоклінічну модель</item>
+					<item>про анатомо-клінічну модель</item>
+					<item>про клінічну модель</item>
+				</words_list>
+				<result>
+					<query_type>clinical_model</query_type>	
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.3.2">
+				<words_list>
+					<item>функціональна модель</item>
+					<item>функціональну модель</item>
+					<item>про функціональну модель</item>
+					<item>про функціональна модель</item>
+					<item>за функціональну модель</item>
+					<item>за функціональна модель</item>
+				</words_list>
+				<result>
+					<query_type>functional_model</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.3.3">
+				<words_list>
+					<item>компенсація</item>
+					<item>компенсацію</item>
+					<item>компенсацією</item>
+					<item>про компенсацію</item>
+				</words_list>
+				<result>
+					<query_type>compensation</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>					
+				</result>
+			</condition>
+			
+			<condition id="2.3.4">
+				<words_list>
+					<item>справжнє відновлення</item>
+					<item>відновлення справжнє</item>
+					<item>справжнім відновленням</item>
+					<item>відновлення є справжнім</item>
+					<item>відновлення вважається справжнім</item>
+					<item>відновлення можна вважати справжнім</item>
+					<item>відновлення слід вважати справжнім</item>
+					<item>відновлення справжнє</item>
+				</words_list>
+				<result>
+					<query_type>true_recovery</query_type>					
+				</result>
+			</condition>
+
+			<condition id="2.3.5">
+				<words_list>	
+					<item>виміри навчання</item>
+					<item>виміри навчання пацієнтів</item>
+					<item>виміри навчання для пацієнтів</item>
+					<item>навчання пацієнтів</item>
+					
+					<item>виміри навчання пацієнта</item>
+					<item>виміри навчання для пацієнта</item>
+					<item>навчання пацієнта</item>
+				</words_list>
+				<result>
+					<query_type>dimentions_of_learining</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.3.6">
+				<words_list>	
+					<item>автором</item>
+					<item>автор</item>
+					<item>аворами</item>
+					<item>людиною що присала</item>
+					<item>людиною яка присала</item>
+					<item>написав</item>
+					
+					<item>авторів у білої книги</item>
+					<item>редакторів у білої книги</item>	
+					<item>рецензентів у білої книги</item>
+					
+					<item>авторів у книги</item>
+					<item>редакторів у книги</item>	
+					<item>рецензентів у книги</item>
+					
+					<item>авторів у</item>
+					<item>редакторів у</item>	
+					<item>рецензентів у</item>
+					
+					<item>авторів в білої книги</item>
+					<item>редакторів в білої книги</item>	
+					<item>рецензентів в білої книги</item>
+					
+					<item>авторів в книги</item>
+					<item>редакторів в книги</item>	
+					<item>рецензентів в книги</item>
+					
+					<item>авторів в</item>
+					<item>редакторів в</item>	
+					<item>рецензентів в</item>
+					
+					<item>авторів писало</item>
+					<item>редакторів писало</item>	
+					<item>рецензентів писало</item>
+					<item>людей писало</item>
+					<item>авторів писали</item>
+					<item>редакторів писали</item>	
+					<item>рецензентів писали</item>
+					<item>людей писали</item>
+					
+					<item>авторів які писало</item>
+					<item>редакторів які писало</item>	
+					<item>рецензентів які писало</item>
+					<item>людей які писало</item>
+					<item>авторів які писали</item>
+					<item>редакторів які писали</item>	
+					<item>рецензентів які писали</item>
+					<item>людей які писали</item>
+					
+					<item>авторів що писало</item>
+					<item>редакторів що писало</item>	
+					<item>рецензентів що писало</item>
+					<item>людей що писало</item>
+					<item>авторів що писали</item>
+					<item>редакторів що писали</item>	
+					<item>рецензентів що писали</item>
+					<item>людей що писали</item>	
+
+					<item>авторів у білої книги</item>
+					<item>редакторів у білої книги</item>	
+					<item>рецензентів у білої книги</item>
+					
+					<item>авторів у книги</item>
+					<item>редакторів у книги</item>	
+					<item>рецензентів у книги</item>
+					
+					<item>авторів у бк</item>
+					<item>редакторів у бк</item>	
+					<item>рецензентів у бк</item>
+					
+					<item>авторів в білої книги</item>
+					<item>редакторів в білої книги</item>	
+					<item>рецензентів в білої книги</item>
+					
+					<item>авторів в книги</item>
+					<item>редакторів в книги</item>	
+					<item>рецензентів в книги</item>
+					
+					<item>авторів в бк</item>
+					<item>редакторів в бк</item>	
+					<item>рецензентів в бк</item>
+				
+					<item>авторів</item>
+					<item>редакторів</item>	
+					<item>рецензентів</item>					
+					
+					<item>редактор</item>	
+					<item>рецерзент</item>
+					
+				</words_list>
+				<result>
+					<query_type>count_authors</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.3.7">
+				<words_list>	
+					<item>створення якісних дизайнів досліджень специфічних для фрм</item>
+					<item>створення якісних дизайнів досліджень</item>
+					<item>створення дизайнів досліджень</item>
+					<item>дизайни досліджень специфічні для фрм</item>
+					<item>специфічні для фрм дизайни досліджень</item>
+					<item>специфічні для фрм дизайни</item>
+					<item>специфічне для фрм пленування досліджень</item>
+					<item>специфічне для фрм пленування експеримантів</item>
+					<item>специфіка планування досліджень для фрм</item>
+					<item>специфіка дизйнів досліджень для фрм</item>
+					<item>специфіку дизйнів досліджень для фрм</item>
+					<item>специфіку планування досліджень для фрм</item>
+					
+					<item>створення якісних дизайнів досліджень специфічних для фізичної реабілітаційної медицини</item>
+					<item>дизайни досліджень специфічні для фізичної реабілітаційної медицини</item>
+					<item>специфічні для фізичної реабілітаційної медицини дизайни досліджень</item>
+					<item>специфічні для фізичної реабілітаційної медицини дизайни</item>
+					<item>специфічне для фізичної реабілітаційної медицини пленування досліджень</item>
+					<item>специфічне для фізичної реабілітаційної медицини пленування експеримантів</item>
+					<item>специфіка планування досліджень для фізичної реабілітаційної медицини</item>
+					<item>специфіка дизйнів досліджень для фізичної реабілітаційної медицини</item>
+					<item>специфіку дизйнів досліджень для фізичної реабілітаційної медицини</item>
+					<item>специфіку планування досліджень для фізичної реабілітаційної медицини</item>
+					
+					<item>створення якісних дизайнів досліджень специфічних для реабілітаційної медицини</item>
+					<item>дизайни досліджень специфічні для реабілітаційної медицини</item>
+					<item>специфічні для реабілітаційної медицини дизайни досліджень</item>
+					<item>специфічні для реабілітаційної медицини дизайни</item>
+					<item>специфічне для реабілітаційної медицини пленування досліджень</item>
+					<item>специфічне для реабілітаційної медицини пленування експеримантів</item>
+					<item>специфіка планування досліджень для реабілітаційної медицини</item>
+					<item>специфіка дизйнів досліджень для реабілітаційної медицини</item>
+					<item>специфіку дизйнів досліджень для реабілітаційної медицини</item>
+					<item>специфіку планування досліджень для реабілітаційної медицини</item>
+					
+					<item>створення якісних дизайнів досліджень специфічних для реабілітації</item>
+					<item>дизайни досліджень специфічні для реабілітації</item>
+					<item>специфічні для реабілітації дизайни досліджень</item>
+					<item>специфічні для реабілітації дизайни</item>
+					<item>специфічне для реабілітації пленування досліджень</item>
+					<item>специфічне для реабілітації пленування експеримантів</item>
+					<item>специфіка планування досліджень для реабілітації</item>
+					<item>специфіка дизйнів досліджень для реабілітації</item>
+					<item>специфіку дизйнів досліджень для реабілітації</item>
+					<item>специфіку планування досліджень для реабілітації</item>
+					
+					<item>дизайни досліджень</item>
+					<item>дизайн досліджень</item>
+					<item>планування досліджень</item>
+					<item>планування експериментів</item>					
+
+				</words_list>
+				<result>
+					<query_type>research_designes</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>					
+				</result>
+			</condition>
+			
+			<condition id="2.3.8">
+				<words_list>	
+					<item>передача наукових знань до клінічної практики</item>
+					<item>передача наукових знань до клінічної</item>
+					<item>передача наукових знань до практики</item>
+					<item>передача наукових знань</item>
+					
+					<item>передача знань до клінічної практики</item>
+					<item>передача знань до клінічної</item>
+					<item>передача знань до практики</item>
+					<item>передача знань</item>					
+					
+					<item>передача результатів досліджень до клінічної практики</item>
+					<item>передача результатів досліджень до клінічної</item>
+					<item>передача результатів досліджень до практики</item>
+					<item>передача результатів досліджень</item>
+				</words_list>
+				<result>
+					<query_type>knowledge_transfer</query_type>	
+					<query_type>label_definition</query_type>
+					<input_entity>2.3</input_entity>	
+				</result>
+			</condition>
+			
+			<condition id="2.3.9">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>predicate_definition</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>super_class</query_type>
+					<query_type>linked_classes_down</query_type>
+					<query_type>linked_classes_up</query_type>
+					<input_entity>2.3</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>		
+		
+		<position id="2.4">
+			<condition id="2.4.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>super_class</query_type>
+					<input_entity>2.4</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="2.5">
+			<condition id="2.5.1">
+				<words_list>
+					<item>процеси навчання у фізичній та реабілітаційній медицині</item>
+					<item>процесів навчання у фізичній та реабілітаційній медицині</item>
+					<item>процеси навчання у реабілітаційній медицині</item>
+					<item>процесів навчання у реабілітаційній медицині</item>
+					<item>процеси навчання</item>
+					<item>процесів навчання</item>
+					
+					<item>управлінські навички</item>
+					<item>управлінських навичок</item>
+					
+					<item>стандарти освіти та навчання лікарів фізичної та реабілітаційної медицини</item>
+					<item>стандартів освіти та навчання лікарів фізичної та реабілітаційної медицини</item>
+					<item>стандарти освіти лікарів фізичної та реабілітаційної медицини</item>
+					<item>стандартів освіти лікарів фізичної та реабілітаційної медицини</item>
+					<item>стандарти навчання лікарів фізичної та реабілітаційної медицини</item>
+					<item>стандартів навчання лікарів фізичної та реабілітаційної медицини</item>
+					<item>стандарти освіти та навчання лікарів реабілітаційної медицини</item>
+					<item>стандартів освіти та навчання лікарів реабілітаційної медицини</item>
+					<item>стандарти освіти лікарів реабілітаційної медицини</item>
+					<item>стандартів освіти лікарів реабілітаційної медицини</item>
+					<item>стандарти навчання лікарів реабілітаційної медицини</item>
+					<item>стандартів навчання лікарів реабілітаційної медицини</item>
+					<item>стандарти навчання лікарів</item>
+					<item>стандартів навчання лікарів</item>
+					<item>стандарти освіти лікарів</item>
+					<item>стандартів освіти лікарів</item>
+					<item>безперервна медична освіта</item>
+					<item>медична освіта</item>
+					<item>освіта</item>
+					<item>бпо</item>
+					
+					<item>комунікативні навички</item>
+					<item>комунікативних навичок</item>
+					
+					<item>система grading of recommendations assessment development and evaluation GRADE</item>
+					<item>системи grading of recommendations assessment development and evaluation GRADE</item>					
+					<item>система grading of recommendations assessment development and evaluation</item>
+					<item>системи grading of recommendations assessment development and evaluation</item>					
+					<item>система GRADE</item>
+					<item>системи GRADE</item>
+					<item>grading of recommendations assessment development and evaluation GRADE</item>
+					<item>GRADE</item>
+					
+					<item>мкф та функціонування в реабілітації</item>
+					<item>мкф та функціонування</item>			
+					<item>мкф в реабілітації</item>
+					<item>мкф</item>
+					
+					<item>міжнародна класифікація функціонування обмежень життєдіяльності та здоров'я</item>
+					<item>міжнародна класифікація функціонування</item>
+					<item>міжнародна класифікація обмежень функціонування</item>
+					
+					<item>навчання для дослідження</item>
+					<item>навчання дослідження</item>
+
+					<item>практичні інструменти для імплементації мкф в клінічну практику надання та оплату послуг політику і дослідження</item>
+					<item>практичних інструментів для імплементації мкф в клінічну практику надання та оплату послуг політику і дослідження</item>
+					<item>практичні інструменти для імплементації мкф в клінічну практику</item>
+					<item>практичних інструментів для імплементації мкф в клінічну практику</item>
+					<item>практичні інструменти для імплементації мкф</item>
+					<item>практичних інструментів для імплементації мкф</item>
+					<item>інструменти для імплементації мкф в клінічну практику надання та оплату послуг політику і дослідження</item>
+					<item>інструментів для імплементації мкф в клінічну практику надання та оплату послуг політику і дослідження</item>
+					<item>інструменти для імплементації мкф в клінічну практику</item>
+					<item>інструментів для імплементації мкф в клінічну практику</item>
+					<item>інструменти для імплементації мкф</item>
+					<item>інструментів для імплементації мкф</item>
+					
+					<item>сфера компетентностей фізичної та реабілітаційної медицини</item>
+					<item>сфери компетентностей фізичної та реабілітаційної медицини</item>
+					<item>сферу компетентностей фізичної та реабілітаційної медицини</item>
+					<item>сфера компетентностей реабілітаційної медицини</item>
+					<item>сфери компетентностей реабілітаційної медицини</item>
+					<item>сферу компетентностей реабілітаційної медицини</item>
+					<item>сфера фізичної та реабілітаційної медицини</item>
+					<item>сфери фізичної та реабілітаційної медицини</item>
+					<item>сферу фізичної та реабілітаційної медицини</item>
+					<item>сфера реабілітаційної медицини</item>
+					<item>сфери реабілітаційної медицини</item>
+					<item>сферу реабілітаційної медицини</item>
+					
+					<item>розділ 1 визначення та поняття фрм</item>
+					<item>розділу 1 визначення та поняття фрм</item>
+					<item>визначення та поняття фрм</item>
+					<item>розділ 1</item>
+					<item>розділу 1</item>
+					
+					<item>розділ 2 чому реабілітація потрібна індивідууму та суспільству</item>
+					<item>розділу 2 чому реабілітація потрібна індивідууму та суспільству</item>
+					<item>чому реабілітація потрібна індивідууму та суспільству</item>
+					<item>розділ 2</item>
+					<item>розділу 2</item>
+					
+					<item>розділ 3 первинна медична спеціальність</item>
+					<item>розділу 3 первинна медична спеціальність</item>
+					<item>первинна медична спеціальність</item>
+					<item>первинної медичної спеціальності</item>
+					<item>розділ 3</item>
+					<item>розділу 3</item>
+					
+					<item>розділ 4 історія спеціальності</item>
+					<item>розділу 4 історія спеціальності</item>
+					<item>розділ 4 історія спеціальності фрм</item>
+					<item>розділу 4 історія спеціальності фрм</item>
+					<item>історія спеціальності</item>
+					<item>історія спеціальності фрм</item>
+					<item>історії спеціальності</item>
+					<item>історії спеціальності фрм</item>
+					<item>історія фрм</item>
+					<item>історії фрм</item>
+					<item>розділ 4</item>
+					<item>розділу 4</item>
+					<item>розділі 4</item>
+					
+					
+					<item>розділ 5 організації фрм в європі структура та діяльність</item>
+					<item>розділу 5 організації фрм в європі структура та діяльність</item>
+					<item>розділ 5 організації фрм в європі</item>
+					<item>розділу 5 організації фрм в європі</item>
+					<item>організації фрм в європі</item>
+					<item>структура та діяльність організації фрм в європі</item>
+					<item>структуру та діяльність організації фрм в європі</item>
+					<item>структура та діяльність організації фрм</item>
+					<item>структуру та діяльність організації фрм</item>
+					<item>організації фрм</item>
+					<item>організації фрм</item>
+					<item>розділ 5</item>
+					<item>розділу 5</item>					
+					
+					<item>вступ</item>
+					<item>вступу</item>
+					
+					<item>розділ 6 знання та навички лікарів фрм</item>
+					<item>розділу 6 знання та навички лікарів фрм</item>
+					<item>розділ 6 навички та знання лікарів фрм</item>
+					<item>розділу 6 навички та знання лікарів фрм</item>
+					
+					<item>розділ 6 знання і навички лікарів фрм</item>
+					<item>розділу 6 знання і навички лікарів фрм</item>
+					<item>розділ 6 навички і знання лікарів фрм</item>
+					<item>розділу 6 навички і знання лікарів фрм</item>
+					
+					<item>розділ 6 знання й навички лікарів фрм</item>
+					<item>розділу 6 знання й навички лікарів фрм</item>
+					<item>розділ 6 навички й знання лікарів фрм</item>
+					<item>розділу 6 навички й знання лікарів фрм</item>
+					
+					<item>розділ 6 знання та навички лікарів</item>
+					<item>розділу 6 знання та навички лікарів</item>
+					<item>розділ 6 навички та знання лікарів фрм</item>
+					<item>розділу 6 навички та знання лікарів фрм</item>
+					
+					<item>розділ 6 знання і навички лікарів</item>
+					<item>розділу 6 знання і навички лікарів</item>
+					<item>розділ 6 навички і знання лікарів</item>
+					<item>розділу 6 навички і знання лікарів</item>
+					
+					<item>розділ 6 знання й навички лікарів</item>
+					<item>розділу 6 знання й навички лікарів</item>
+					<item>розділ 6 навички й знання лікарів</item>
+					<item>розділу 6 навички й знання лікарів</item>
+					
+					<item>знання та навички лікарів фрм</item>
+					<item>навички та знання лікарів фрм</item>
+					
+					<item>знання і навички лікарів фрм</item>
+					<item>навички і знання лікарів фрм</item>
+					
+					<item>знання й навички лікарів фрм</item>
+					<item>навички й знання лікарів фрм</item>
+					
+					<item>знання та навички лікарів</item>
+					<item>знання та навички лікарів</item>
+					<item>навички та знання лікарів фрм</item>
+					<item>навички та знання лікарів фрм</item>
+					
+					<item>знання і навички лікарів</item>
+					<item>навички і знання лікарів</item>
+					
+					<item>знання й навички лікарів</item>
+					<item>навички й знання лікарів</item>
+					
+					<item>знання лікарів</item>
+					<item>навички лікарів</item>
+					<item>знання лікарів фрм</item>
+					<item>навички лікарів фрм</item>
+					
+					<item>розділ 6</item>
+					<item>розділу 6</item>
+					
+					<item>розділ 7</item>
+					<item>розділу 7</item>
+					
+					<item>розділ 8</item>
+					<item>розділу 8</item>
+					
+					<item>розділ 9</item>
+					<item>розділу 9</item>
+					
+					<item>розділ 10</item>
+					<item>розділу 10</item>
+					
+					<item>розділ 11</item>
+					<item>розділу 11</item>
+					
+					
+					<item>профілактика підтримка здоров'я та зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>профілактику підтримка здоров'я та зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>профілактики підтримка здоров'я та зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					
+					<item>підтримка здоров'я та зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>підтримку здоров'я та зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>підтримки здоров'я та зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					
+					<item>зміцнення здоров'я у фізичній та реабілітаційній медицині</item>
+					
+					<item>підтримка здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>підтримку здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>підтримки здоров'я у фізичній та реабілітаційній медицині</item>
+					<item>підтримка здоров'я у реабілітаційній медицині</item>
+					<item>підтримку здоров'я у реабілітаційній медицині</item>
+					<item>підтримки здоров'я у реабілітаційній медицині</item>
+					
+					<item>національні товариства фрм в європі</item>
+					<item>національні товариства фрм</item>
+					<item>національні товариства в европі</item>
+					
+					<item>європейське товариство фізичної та реабілітаційної медицини</item>
+					<item>європейського товариства фізичної та реабілітаційної медицини</item>
+					<item>товариство фізичної та реабілітаційної медицини</item>
+					<item>товариства фізичної та реабілітаційної медицини</item>
+					<item>європейське товариство реабілітаційної медицини</item>
+					<item>європейського товариства реабілітаційної медицини</item>
+					<item>товариство реабілітаційної медицини</item>
+					<item>товариства реабілітаційної медицини</item>
+					<item>етфрм</item>
+					
+					<item>європейська академія реабілітаційної медицини</item>
+					<item>європейську академію реабілітаційної медицини</item>
+					<item>європейської академії реабілітаційної медицини</item>
+					<item>академія реабілітаційної медицини</item>
+					<item>академію реабілітаційної медицини</item>
+					<item>академії реабілітаційної медицини</item>
+					<item>еарм</item>
+					
+					<item>впровадження фізичної та реабілітаційної медицини в системах охорони здоров'я</item>
+					<item>впровадження реабілітаційної медицини в системах охорони здоров'я</item>
+					<item>впровадження фізичної та реабілітаційної медицини</item>
+					<item>впровадження реабілітаційної медицини</item>
+					
+					<item>безперервний професійний розвиток</item>
+					<item>безперервного професійного розвитку</item>
+					<item>професійного розвитку</item>
+					<item>професійний розвиток</item>
+					<item>бпр</item>
+					
+					<item>виклики доказової медицини в фрм</item>
+					<item>викликів доказової медицини в фрм</item>	
+					<item>виклики доказової медицини у фрм</item>
+					<item>викликів доказової медицини у фрм</item>
+					<item>виклики доказової медицини</item>
+					<item>викликів доказової медицини</item>	
+					<item>виклики медицини в фрм</item>
+					<item>викликів медицини в фрм</item>
+					<item>виклики медицини у фрм</item>
+					<item>викликів медицини у фрм</item>
+					<item>виклики медицини</item>
+					<item>викликів медицини</item>
+					
+					<item>процес реабілітації</item>
+					<item>процесу реабілітації</item>
+					<item>процеси реабілітації</item>
+					<item>процесів реабілітації</item>
+					
+					<item>проблеми майбутнього</item>
+					<item>проблем майбутнього</item>
+				</words_list>
+				<result>
+					<query_type>query_of_predicate</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>linked_classes_down</query_type>
+					<query_type>linked_classes_up</query_type>
+					<input_entity>2.5</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.5.2">
+				<words_list>					
+					<item>європейської академії реабілітаційної медицини</item>
+					<item>академії реабілітаційної медицини</item>
+					<item>єарм</item>	
+					<item>у єарм</item>
+				</words_list>
+				<result>
+					<query_type>composition</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.5</input_entity>
+				</result>
+			</condition>
+			
+			<condition id="2.5.3">
+				<words_list>
+					<item>біла книга з фізичної та реабілітаційної медицини</item>
+					<item>білої книги з фізичної та реабілітаційної медицини</item>
+					<item>білої книги</item>
+					<item>біла книга</item>
+					<item>книга</item>
+					<item>книги</item>
+					<item>бк</item>
+				</words_list>
+				<result>
+					<query_type>chapter</query_type>
+					<input_entity>2.5</input_entity>
+				</result>
+			</condition>
+			
+			
+			<condition id="2.5.4">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>sub_class</query_type>
+					<query_type>individuals</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.5</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.6">
+			<condition id="2.6.1">
+				<words_list>
+					<item>реабілітаційних послуг</item>	
+					<item>реабілітації</item>	
+					<item>послуг</item>	
+				</words_list>
+				<result>
+					<query_type>reabilitation_classification</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.6</input_entity>
+				</result>
+			</condition>
+		
+			<condition id="2.6.2">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>aspect</query_type>
+					<query_type>topic</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.6</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.7">
+			<condition id="2.7.1">
+				<words_list>
+					<item>any_words</item>	
+				</words_list>
+				<result>
+					<query_type>chapter</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>sub_class</query_type>
+					<input_entity>2.7</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.8">
+			<condition id="2.8.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>topic</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.8</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.9">
+			<condition id="2.9.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>individuals</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.9</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.10">
+			<condition id="2.10.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>common</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.10</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.11">
+			<condition id="2.11.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>weak_recommendation</query_type>
+					<query_type>recomendations</query_type>
+					<query_type>query_of_predicate</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.11</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.12">
+			<condition id="2.12.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>strong_recommendation</query_type>
+					<query_type>query_of_predicate</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.12</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.13">
+			<condition id="2.13.1">
+				<words_list>
+					<item>any_undefined</item>
+				</words_list>
+				<possible_types>
+					<item>table</item>
+				</possible_types>
+				<next_position>3.9</next_position>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.14">
+			<condition id="2.14.1">
+				<words_list>
+					<item>any_undefined</item>
+				</words_list>
+				<possible_types>
+					<item>figure</item>
+				</possible_types>
+				<next_position>3.10</next_position>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.15">
+			<condition id="2.15.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>indexetion</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.15</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.16">
+			<condition id="2.16.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>categories_of_works</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.16</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.18">
+			<condition id="2.18.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>accsess</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.18</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="2.19">
+			<condition id="2.19.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>goals</query_type>
+					<query_type>purpose</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.19</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="2.20">
+			<condition id="2.20.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>approach</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.20</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.21">
+			<condition id="2.21.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>purpose</query_type>
+					<query_type>goals</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.21</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.22">
+			<condition id="2.22.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>mission</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.22</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.23">
+			<condition id="2.23.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>subject_of_interest</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.23</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="2.25">
+			<condition id="2.25.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>literature</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.25</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="2.26">
+			<condition id="2.26.1">
+				<words_list>
+					<item>авторів у білої книги</item>
+					<item>редакторів у білої книги</item>	
+					<item>рецензентів у білої книги</item>
+					
+					<item>білої книги авторів</item>
+					<item>білої книги редакторів</item>	
+					<item>білої книги рецензентів</item>
+					
+					<item>білої книги було авторів</item>
+					<item>білої книги було редакторів</item>	
+					<item>білої книги було рецензентів</item>
+					
+					<item>білої книги є авторів</item>
+					<item>білої книги є редакторів</item>	
+					<item>білої книги є рецензентів</item>
+					
+					<item>авторів у книги</item>
+					<item>редакторів у книги</item>	
+					<item>рецензентів у книги</item>
+					
+					<item>авторів у бк</item>
+					<item>редакторів у бк</item>	
+					<item>рецензентів у бк</item>
+					
+					<item>авторів у</item>
+					<item>редакторів у</item>	
+					<item>рецензентів у</item>
+					
+					<item>авторів в білої книги</item>
+					<item>редакторів в білої книги</item>	
+					<item>рецензентів в білої книги</item>
+					
+					<item>авторів в бк</item>
+					<item>редакторів в бк</item>	
+					<item>рецензентів в бк</item>
+					
+					<item>авторів білої книги</item>
+					<item>редакторів білої книги</item>	
+					<item>рецензентів білої книги</item>
+					
+					<item>авторів в книги</item>
+					<item>редакторів в книги</item>	
+					<item>рецензентів в книги</item>
+					
+					<item>авторів в</item>
+					<item>редакторів в</item>	
+					<item>рецензентів в</item>
+					
+					<item>авторів писало</item>
+					<item>редакторів писало</item>	
+					<item>рецензентів писало</item>
+					<item>людей писало</item>
+					<item>авторів писали</item>
+					<item>редакторів писали</item>	
+					<item>рецензентів писали</item>
+					<item>людей писали</item>
+					
+					<item>авторів які писало</item>
+					<item>редакторів які писало</item>	
+					<item>рецензентів які писало</item>
+					<item>людей які писало</item>
+					<item>авторів які писали</item>
+					<item>редакторів які писали</item>	
+					<item>рецензентів які писали</item>
+					<item>людей які писали</item>
+					
+					<item>авторів що писало</item>
+					<item>редакторів що писало</item>	
+					<item>рецензентів що писало</item>
+					<item>людей що писало</item>
+					<item>авторів що писали</item>
+					<item>редакторів що писали</item>	
+					<item>рецензентів що писали</item>
+					<item>людей що писали</item>
+
+					<item>книги авторів</item>
+					<item>книги редакторів</item>	
+					<item>книги рецензентів</item>
+					
+					<item>бк авторів</item>
+					<item>бк редакторів</item>	
+					<item>бк рецензентів</item>
+					
+					<item>книги було авторів</item>
+					<item>книги було редакторів</item>	
+					<item>книги було рецензентів</item>
+					
+					<item>бк було авторів</item>
+					<item>бк було редакторів</item>	
+					<item>бк було рецензентів</item>
+					
+					<item>книги є авторів</item>
+					<item>книги є редакторів</item>	
+					<item>книги є рецензентів</item>
+					
+					<item>бк є авторів</item>
+					<item>бк є редакторів</item>	
+					<item>бк є рецензентів</item>
+				
+					<item>авторів</item>
+					<item>редакторів</item>	
+					<item>рецензентів</item>					
+					
+					<item>автор</item>
+					<item>редактор</item>	
+					<item>рецерзент</item>
+					
+					<item>рецерзував</item>
+				</words_list>
+				<result>
+					<query_type>count_authors</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.26</input_entity>
+				</result>
+			</condition>
+
+			<condition id="2.26.2">
+				<words_list>
+					<item>частин у білої книги</item>
+					<item>розділів у білої книги</item>	
+					<item>глав у білої книги</item>
+					<item>частин в білої книги</item>
+					<item>розділів в білої книги</item>	
+					<item>глав в білої книги</item>
+					
+					<item>частин у білій книзі</item>
+					<item>розділів у білій книзі</item>	
+					<item>глав у білій книзі</item>
+					<item>частин в білій книзі</item>
+					<item>розділів в білій книзі</item>	
+					<item>глав в білій книзі</item>
+					
+					<item>частин у бк</item>
+					<item>розділів у бк</item>	
+					<item>глав у бк</item>
+					<item>частин в бк</item>
+					<item>розділів в бк</item>	
+					<item>глав в бк</item>
+					
+					<item>частин білої книги</item>
+					<item>розділів білої книги</item>	
+					<item>глав білої книги</item>
+					
+					<item>частин бк</item>
+					<item>розділів бк</item>	
+					<item>глав бк</item>
+					
+					<item>частин у книги</item>
+					<item>розділів у книги</item>	
+					<item>глав у білої книги</item>
+					
+					<item>частин в книги</item>
+					<item>розділів в книги</item>	
+					<item>глав в книги</item>
+					
+					<item>частин у книзі</item>
+					<item>розділів у книзі</item>	
+					<item>глав у книзі</item>					
+					<item>частин в книзі</item>
+					<item>розділів в книзі</item>	
+					<item>глав в книзі</item>
+					
+					<item>у білої книги частин</item>
+					<item>у білої книги розділів</item>	
+					<item>у білої книгиглав </item>
+					<item>в білої книги частин</item>
+					<item>в білої книги розділів</item>	
+					<item>в білої книгиглав </item>
+					
+					<item>у бк частин</item>
+					<item>у бк розділів</item>	
+					<item>у бк глав </item>
+					<item>в бк частин</item>
+					<item>в бк розділів</item>	
+					<item>в бк глав </item>
+					
+					<item>у білій книзі частин</item>
+					<item>у білій книзі розділів</item>	
+					<item>у білій книзі глав</item>
+					<item>в білій книзі частин</item>
+					<item>в білій книзі розділів</item>	
+					<item>в білій книзі глав</item>
+					
+					<item>у бк частин</item>
+					<item>у бк розділів</item>	
+					<item>у бк глав</item>
+					<item>в бк частин</item>
+					<item>в бк розділів</item>	
+					<item>в бк глав</item>
+		
+					<item>білої книги частин</item>
+					<item>білої книги розділів</item>	
+					<item>білої книги глав </item>
+					
+					<item>бк частин</item>
+					<item>бк розділів</item>	
+					<item>бк глав </item>
+					
+					<item>білій книзі частин</item>
+					<item>білій книзі розділів</item>	
+					<item>білій книзі глав</item>
+					
+					<item>бк частин</item>
+					<item>бк розділів</item>	
+					<item>бк глав</item>
+					
+					<item>у книги частин</item>
+					<item>у книги розділів</item>	
+					<item>у книги глав</item>
+					<item>в книги частин</item>
+					<item>в книги розділів</item>	
+					<item>в книги глав</item>
+					
+					<item>у книзі частин</item>
+					<item>у книзі розділів</item>	
+					<item>у книзі глав</item>
+					<item>в книзі частин</item>
+					<item>в книзі розділів</item>	
+					<item>в книзі глав</item>
+					
+				</words_list>
+				<result>
+					<query_type>count_chapters</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.26</input_entity>
+				</result>
+			</condition>
+
+			
+		
+			<condition id="2.26.3">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>count_derivatives</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.26</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		
+		<position id="2.27">
+			<condition id="2.27.1">
+				<words_list>
+					<item>any_words</item>		
+				</words_list>
+				<result>
+					<query_type>membership</query_type>
+					<query_type>super_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>2.27</input_entity>
+				</result>
+			</condition>
+		    <default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+    </condition_level>
+	<condition_level id="3">
+		<position id="3.1">
+			<condition id="3.1.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>individuals</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.1</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+        <position id="3.2">
+			<condition id="3.2.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>aspect</query_type>
+					<query_type>sub_class</query_type>
+					<query_type>chapter</query_type>
+					<query_type>topic</query_type>
+					<query_type>label_definition</query_type>					
+					<input_entity>3.2</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		
+		<position id="3.3">
+			<condition id="3.3.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>chapter</query_type>
+					<input_entity>3.3</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+        <position id="3.4">
+			<condition id="3.4.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>sub_class</query_type>
+					<query_type>label_definition</query_type>
+					<query_type>topic</query_type>
+					<query_type>chapter</query_type>
+					<input_entity>3.4</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>		
+		</position>
+		<position id="3.5">
+			<condition id="3.5.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>aspect_amply</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.5</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>		
+		</position>
+		<position id="3.6">
+			<condition id="3.6.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>super_class</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.6</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="3.7">
+			<condition id="3.7.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>topic_amply</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.7</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>		
+		
+		<position id="3.8">
+			<condition id="3.8.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>sub_class_amply</query_type>
+					<query_type>label_definition</query_type>
+					<input_entity>3.8</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>
+		<position id="3.9">
+			<condition id="3.9.1">
+				<words_list>
+					<item>у</item>
+					<item>в</item>
+					<item>з</item>
+					<item>розміщена</item>
+					<item>що розміщена</item>
+					<item>яка розміщена</item>
+					<item>що розміщено</item>
+					<item>яку розміщено</item>
+					<item>що входить у</item>
+					<item>що входить в</item>
+					<item>що входить до</item>
+				</words_list>
+				<possible_types>
+					<item>table</item>
+				</possible_types>
+				<next_position>4.1</next_position>
+			</condition>
+			<condition id="3.9.2">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>table</query_type>
+					<input_entity>3.9</input_entity>
+					<input_entity>2.13</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>
+		</position>	
+		
+		<position id="3.10">
+			<condition id="3.10.1">
+				<words_list>
+					<item>у</item>
+					<item>в</item>
+					<item>з</item>
+					<item>розміщена</item>
+					<item>розміщений</item>
+					<item>що розміщена</item>
+					<item>що розміщений</item>
+					<item>яка розміщена</item>
+					<item>який розміщений</item>
+					<item>який розміщен</item>
+					<item>що розміщено</item>
+					<item>яку розміщено</item>
+					<item>який розміщено</item>
+					<item>якого розміщено</item>
+					<item>що входить у</item>
+					<item>що входить в</item>
+					<item>що входить до</item>
+				</words_list>
+				<possible_types>
+					<item>figure</item>
+				</possible_types>
+				<next_position>4.2</next_position>
+			</condition>
+			<condition id="3.10.2">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>figure</query_type>
+					<input_entity>3.10</input_entity>
+					<input_entity>2.14</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>			
+		</position>
+    </condition_level>
+	<condition_level id="4">
+		<position id="4.1">
+			<condition id="4.1.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>table</query_type>
+					<input_entity>4.1</input_entity>
+					<input_entity>2.13</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>	
+		</position>
+		<position id="4.2">
+			<condition id="4.2.1">
+				<words_list>
+					<item>any_words</item>
+				</words_list>
+				<result>
+					<query_type>figure</query_type>
+					<input_entity>4.2</input_entity>
+					<input_entity>2.14</input_entity>
+				</result>
+			</condition>
+			<default>
+				<result>unknown</result>
+			</default>	
+		</position>
+	</condition_level>
+</tree>
+
+</data>
+
+
+
+
+
+
+
+
+

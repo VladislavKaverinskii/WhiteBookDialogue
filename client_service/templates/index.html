@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	{% load static %}
+	<title>Довідкова система Біла Книга</title>
+	<link rel="shortcut icon" href="{% static '/img/favicon.ico' %}" type="image/x-icon">
+	<script type="text/javascript" src="{% static 'js/jquery-1.12.3.min.js' %}"></script>
+	<script type="text/javascript" src="{% static 'js/bot-popup.js' %}"></script>
+	<link href="{% static 'css/style.css' %}" rel="stylesheet">
+	<meta name="viewport" content="height=device-height,width=600,user-scalable=yes">
+</head>
+<body>
+	<div class="wrapper">
+
+		<header>
+			<h1>Довідкова система за Білою Книгою з Фізичної та Реабілітаційної Медицини в Європі</h1>
+			<p class="download-button"><a class="download-link" target="blank" href="{% static '/WB.pdf' %}">Завантажити книгу</a></p>
+		</header>
+	
+		<div class="chat-box">
+			<div class="chat-head">
+				<h2>Віртуальний консультант</h2>				
+				<img src="{% static '/img/angle_down-16.png' %}" title="Expand Arrow" width="16">
+			</div>
+			<div class="chat-body">
+				<div class="msg-insert">
+				  <div class="msg-receive start-dialog_replic"> Наразі це експериментальна версія діалогової системи. <br />
+																Час отримання відповіді у середньому може складати 5 - 8 секунд.
+				  </div>
+				  <div class="msg-receive start-dialog_replic"> Бажаєте розпочати розмову? </div>
+				  <div class='msg-receive start-dialog_replic'><button class="dialog-button dialog-start_button">Розпочати діалог</button></div>
+				</div>
+				<div class="chat-text">
+					<textarea class="chat-text_input" disabled="disabled" placeholder="Натисніть кнопку для початку діалогу"></textarea>
+					
+				</div>
+			</div>
+			
+		</div>
+		
+		<div class="main-block">
+			<iframe
+			src="{% static '/WB.pdf' %}"
+			style="border: none;" />
+		</div>
+		
+	</div>
+</body>
+</html>
+
+

@@ -1,0 +1,146 @@
+<marker>
+    <question>
+        <time>
+            <item> когда </item>
+            <item> в какое время </item>
+			<item> в каком году </item>
+        </time>
+        <place>
+            <item> где </item>
+            <item> в каком </item>
+			<item> в какой </item>
+            <item> в чём </item>
+			<item> в чем </item>
+            <item> на чём </item>
+			<item> на чем </item>
+			<item> на чей </item>
+            <item> около чего </item>
+			<item> около кого </item>
+			<item> возле чего </item>
+			<item> возле кого </item>
+            <item> за чем </item>
+			<item> за кем </item>
+            <item> в чьём </item>
+			<item> в чьем </item>
+        </place>
+        <cause>
+            <item> чего </item>
+            <item> почему </item>
+            <item> для чего </item>
+            <item> зачем </item>
+            <item> какая причина </item>
+            <item> в чём причина </item>
+			 <item> в чём причины </item>
+			<item> где причина </item>
+            <item> что вызывает </item>
+        </cause>
+        <object>
+		    <item> что </item>
+			<item> что нужно </item>
+			<item> что необходимо </item>
+			<item> что требуется </item>
+            <item> с кем </item>
+            <item> с чем </item>
+            <item> какой </item>
+			<item> какая </item>
+			<item> какое </item>
+			<item> какие </item>
+			<item> каким </item>
+			<item> какова </item>
+			<item> каков </item>
+			<item> каково </item>
+			<item> в чём сущность </item>
+			<item> в чём состоит </item>
+			<item> в чём заключается </item>
+			<item> в чём должен заключаться </item>
+			<item> в чём должен состоять </item>
+			<item> в чём должна заключаться </item>
+			<item> в чём должна состоять </item>
+			<item> в чём должно заключаться </item>
+			<item> в чём должно состоять </item>
+			<item> в чём состоит сущность </item>
+			<item> из чего состоит </item>
+			<item> из чего складывается </item>
+        </object>
+        <method>
+            <item> как </item>
+            <item> каким образом </item>
+        </method>
+        <direction>
+            <item> куда </item>
+            <item> откуда </item>
+            <item> в каком направлении </item>
+        </direction>
+    </question>
+    <statement>
+        <time>
+            <item> когда </item>
+            <item> в то время </item>
+            <item> в это время </item>
+            <item> одновременно </item>
+            <item> вчера </item>
+            <item> сегодня </item>
+            <item> завтра </item>
+            <item> послезавтра </item>
+            <item> позавчера </item>
+            <item> году </item>
+            <item> месяце </item>
+            <item> сейчас </item>
+            <item> всегда </item>
+            <item> иногда </item>
+            <item> никогда </item>
+            <item> кое-когда </item>
+        </time>
+        <place>
+            <item> в этом </item>
+            <item> в том </item>
+            <item> тут </item>
+			<item> здесь </item>
+            <item> у </item>
+            <item> в </item>
+            <item> на </item>
+            <item> там </item>
+            <item> где-то </item>
+        </place>
+         <cause>
+            <item> потому что </item>
+            <item> потому, что </item>
+            <item> для того </item>
+            <item> ради </item>
+            <item> по причине </item>
+            <item> вследствии </item>
+            <item> из-за </item>
+             <item> что при </item>
+             <item> потому, как </item>
+
+        </cause>
+        <method>
+            <item> таким образом </item>
+            <item> таким способом </item>
+            <item> с помощью </item>
+            <item> с использованием </item>
+            <item> этим </item>
+        </method>
+        <direction>
+            <item> сюда </item>
+            <item> туда </item>
+            <item> отсюда </item>
+            <item> в направлении </item>
+            <item> в этом направлении </item>
+            <item> в том направлении </item>
+        </direction>
+        <need>
+            <item> хочу </item>
+            <item> желаю </item>
+            <item> надо </item>
+			<item> нужно </item>
+            <item> хочет </item>
+            <item> желает </item>
+            <item> стремлюсь </item>
+            <item> стремится </item>
+            <item> хочеш </item>
+            <item> желаешь </item>
+            <item> стремишся </item>
+        </need>
+    </statement>
+</marker>

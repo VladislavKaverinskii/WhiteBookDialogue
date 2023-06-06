@@ -1,0 +1,45 @@
+<document>
+    <case id="nomn">		
+	</case>
+	<case id="gent">
+        <item>без</item>
+		<item>від</item>
+		<item>з</item>
+		<item>біля</item>
+		<item>до</item>
+		<item>серед</item>
+		<item>округ</item>
+		<item>округи</item>
+		<item>поперек</item>
+		<item>круг</item>
+		<item>коло</item>
+		<item>поверх</item>
+	</case>
+    <case id="datv">
+	</case>
+	<case id="accs">
+	    <item>про</item>
+		<item>на</item>
+		<item>за</item>
+		<item>по</item>
+	</case>
+    <case id="ablt">
+	    <item>перед</item>
+		<item>під</item>
+		<item>за</item>
+		<item>над</item>
+		<item>наді</item>
+		<item>з</item>
+		<item>зі</item>
+		<item>поза</item>
+	</case>
+    <case id="loct">
+	    <item>на</item>
+		<item>в</item>
+		<item>по</item>
+		<item>при</item>
+		<item>во</item>
+    </case>
+	<case id="voct">
+	</case>
+</document>
