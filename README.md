@@ -39,6 +39,15 @@ Other setting are information for the quick and supplementary responses. It has 
     <dialog_answers> - standard answers for the typical situation in a dialogue for quick responses without involving the other services.
     <goodbye_phrases> - phrases to stop the dialogue
 
+The file *WB.pdf* contains the test of the “White Book”, on which the dialogue system is based, to be rendered in the users interface.
+
+Files *analitic_tools.py*, *cases_prep.xml*, *elementary_classes.py*, *foreign_libraries.py*, *marker_words.xml*, *marker_words_ru.xml*, *marker_words_uk.xml*, *text_analyser.py*, *text_analysis_handlers.py*, and *ukr_stemmer3.py* contain tools and program facilities for the natural language text parse, syntactic and semantic analysis.
+
+links_dict.json file and the similar relate to the different ontologies includes keys which correspond to the phrases in the responses tests that require an outer recourse link. To each of the key corresponds a list of three items which are:
+
+    1 – the link itself (URI);
+    2 – name of the link to be displayed (if null merely the URL will de shown)
+    3 – the OWL class name in relates to
 
 
 
