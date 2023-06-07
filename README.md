@@ -49,6 +49,9 @@ links_dict.json file and the similar relate to the different ontologies includes
     2 – name of the link to be displayed (if null merely the URL will de shown)
     3 – the OWL class name in relates to
 
+File *nltk.txt* contains name of the required NLTK packages.
+
+The main business logic of the application is included in the script * WhiteBookBot/vievs.py*.
 
 
 
