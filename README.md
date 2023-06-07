@@ -69,5 +69,8 @@ File *tree.xml* is an XML representation of the decision tree used for the appro
 
 The *query_template.xml* file contains the XML representation of the SPAEQL queries templates.
 
+The file *abbreviations_dict.json* is a dictionary for the possible abbreviation used in the subject area the program is tuned for. It helps to the system to understand the specific abbreviations and link them with the named entities from the ontology.
+
+Files *all_entities.json*, *keywords.json*, and *ontology_entities.json* are regenerated automatically after the application started using *ontology.owl* and *tree.xml* files. The scripts responsible to it are collected in the directory *keywords_generators*. They are needed on the one hand, to clear the input massages from the terms included neither in the ontology not in the decision tree, on the other hand, to fit the selected input named entities to the closest ones from the ontology.
 
 
