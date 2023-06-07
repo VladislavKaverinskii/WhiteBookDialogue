@@ -1,5 +1,4 @@
 # sparql_converter
-----
 
 The sparql_converter application is an important part of the system responsible for the forming of SPARQL queries basing on the input users’ messages.
 
